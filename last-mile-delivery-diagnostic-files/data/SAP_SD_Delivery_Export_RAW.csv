@@ -1,0 +1,1021 @@
+Delivery_ID,Order_ID,Region,Carrier,Ship_Date,Promised_Delivery_Date,Actual_Delivery_Date,Delivery_Status,Failure_Reason_Code,Order_Complete,Distance_Miles
+100000,200000,Southeast,  Apex Freight  ,2025-11-05,11/08/2025,11/08/2025,Delivered,,Y,47
+100001,200001,Northeast,apex freight,28-Oct-2025,10/31/2025,02-Nov-2025,Delivered - Late,,Y,573
+100002,200002,PACIFIC NORTHWEST,Northline Logistics,27-Nov-2025,02-Dec-2025,02-Dec-2025,Delivered,,Y,363
+100003,200003,West,Northline Logistics,28-Oct-2025,31-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,404
+100004,200004,Southeast,Coastal Express,2025-11-14,19-Nov-2025,2025-11-23,DELIVERED - LATE,,Y,402
+100005,200005,Southeast,Coastal Express,12/20/2025,12/25/2025,12/25/2025,Delivered,,Y,61
+100006,200006,Southwest,Coastal Express,2025-10-11,10/14/2025,13-Oct-2025,Delivered,,Y,388
+100007,200007,Midwest,Coastal Express,11/15/2025,11/18/2025,2025-11-18,Delivered,,Y,190
+100008,200008,Southwest,Northline Logistics,2025-11-29,12/03/2025,12/03/2025,Delivered,,Y,72
+100009,200009,Southwest,Apex Freight,2025-11-10,2025-11-14,13-Nov-2025,Delivered,,Y,526
+100010,200010,  Pacific Northwest  ,Summit Carriers,10/19/2025,10/22/2025,2025-10-21,Delivered,,Y,453
+100011,200011,Pacific Northwest,Coastal Express,2025-10-29,2025-11-01,01-Nov-2025,Delivered,,Y,171
+100012,200012,Midwest,Summit Carriers,16-Dec-2025,12/18/2025,12/17/2025,Delivered,,Y,581
+100013,200013,Northeast,Apex Freight,27-Dec-2025,01/01/2026,2025-12-31,Delivered,,Y,460
+100014,200014,Midwest,  Summit Carriers  ,10/01/2025,2025-10-04,2025-10-04,DELIVERED,,Y,320
+100015,200015,Southwest,Northline Logistics,17-Nov-2025,11/20/2025,20-Nov-2025,Delivered,,Y,515
+100016,200016,Northeast,Apex Freight,16-Nov-2025,19-Nov-2025,11/19/2025,Delivered,,Y,512
+100017,200017,Southeast,Northline Logistics,10/17/2025,10/21/2025,2025-10-20,Delivered,,Y,567
+100018,200018,  Southwest  ,Coastal Express,2025-11-21,11/24/2025,11/24/2025,Delivered,,Y,80
+100019,200019,Mid-Atlantic,Apex Freight,2025-12-15,12/20/2025,12/20/2025,Delivered,,Y,75
+100020,200020,Southwest,Apex Freight,2025-10-05,2025-10-08,,Failed - Carrier Delay,CARRIER_DELAY,,258
+100021,200021,West,Summit Carriers,2025-10-28,2025-11-02,01-Nov-2025,Delivered,,Y,499
+100022,200022,Pacific Northwest,NORTHLINE LOGISTICS,2025-10-13,15-Oct-2025,10/14/2025,Delivered,,Y,70
+100023,200023,Southeast,  Apex Freight  ,2025-11-21,2025-11-24,24-Nov-2025,Delivered,,Y,474
+100024,200024,Midwest,Summit Carriers,2025-10-24,27-Oct-2025,10/27/2025,Delivered,,Y,578
+100025,200025,Southeast,Apex Freight,23-Dec-2025,28-Dec-2025,28-Dec-2025,Delivered,,Y,512
+100026,200026,Mountain,Northline Logistics,21-Nov-2025,11/23/2025,,Failed - Carrier Delay,CARRIER_DELAY,,17
+100027,200027,PACIFIC NORTHWEST,coastal express,2025-11-28,12/01/2025,30-Nov-2025,Delivered,,Y,318
+100028,200028,Southwest,Apex Freight,12/14/2025,2025-12-19,,Failed - Carrier Delay,CARRIER_DELAY,,336
+100029,200029,,Apex Freight,2025-12-14,2025-12-18,2025-12-18,Delivered,,Y,535
+100030,200030,Southeast,Northline Logistics,10/09/2025,2025-10-14,,failed - carrier delay,CARRIER_DELAY,,255
+100031,200031,Pacific Northwest,  Apex Freight  ,12-Dec-2025,12/15/2025,16-Dec-2025,Delivered - Late,,Y,612
+100032,200032,Mid-Atlantic,Coastal Express,2025-10-27,30-Oct-2025,2025-10-29,delivered,,Y,89
+100033,200033,Northeast,Summit Carriers,12/19/2025,2025-12-24,24-Dec-2025,Delivered,,Y,150
+100034,200034,Mid-Atlantic,Apex Freight,11/01/2025,04-Nov-2025,11/03/2025,Delivered,,Y,556
+100035,200035,Northeast,Coastal Express,12/24/2025,12/26/2025,2025-12-26,delivered,,Y,581
+100036,200036,Midwest,COASTAL EXPRESS,11/06/2025,2025-11-11,11/10/2025,  Delivered  ,,Y,272
+100037,200037,Northeast,Apex Freight,12/21/2025,12/25/2025,12/28/2025,Delivered - Late,,Y,283
+100038,200038,MIDWEST,  Summit Carriers  ,10-Dec-2025,2025-12-14,12/14/2025,Delivered,,Y,393
+100039,200039,Midwest,Summit Carriers,17-Oct-2025,2025-10-19,10/19/2025,delivered,,Y,230
+100040,200040,Southwest,Apex Freight,15-Nov-2025,2025-11-20,2025-11-20,Delivered,,Y,257
+100041,200041,Midwest,NORTHLINE LOGISTICS,2025-11-22,2025-11-24,,Failed - Carrier Delay,CARRIER_DELAY,,355
+100042,200042,Pacific Northwest,Northline Logistics,2025-11-04,07-Nov-2025,11/08/2025,Delivered - Late,,Y,242
+100043,200043,Southwest,Summit Carriers,2025-11-14,2025-11-17,17-Nov-2025,Delivered,,N,212
+100044,200044,Pacific Northwest,Coastal Express,2025-11-05,11/07/2025,06-Nov-2025,Delivered,,Y,564
+100045,200045,Mid-Atlantic,Apex Freight,2025-10-15,2025-10-18,10/17/2025,Delivered,,N,459
+100046,200046,Mid-Atlantic,Coastal Express,25-Nov-2025,11/30/2025,11/30/2025,Delivered,,Y,461
+100047,200047,Northeast,Northline Logistics,2025-11-16,11/20/2025,,Failed - Carrier Delay,CARRIER_DELAY,,353
+100048,200048,MID-ATLANTIC,APEX FREIGHT,2025-11-08,11/13/2025,12-Nov-2025,Delivered,,Y,582
+100049,200049,Midwest,Northline Logistics,2025-11-23,11/27/2025,26-Nov-2025,Delivered,,Y,15
+100050,200050,West,Coastal Express,2025-10-27,10/31/2025,30-Oct-2025,Delivered,,Y,467
+100051,200051,Southwest,Summit Carriers,22-Oct-2025,24-Oct-2025,10/23/2025,  Delivered  ,,Y,255
+100052,200052,West,Northline Logistics,26-Oct-2025,29-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,265
+100053,200053,Mountain,Apex Freight,11/28/2025,2025-12-02,01-Dec-2025,Delivered,,Y,264
+100054,200054,Midwest,Apex Freight,2025-10-14,10/18/2025,2025-10-17,Delivered,,Y,270
+100055,200055,Southeast,Summit Carriers,10/18/2025,2025-10-22,10/21/2025,Delivered,,Y,468
+100056,200056,Pacific Northwest,Summit Carriers,10/21/2025,2025-10-25,24-Oct-2025,Delivered,,Y,548
+100057,200057,Mountain,Northline Logistics,2025-11-05,2025-11-09,,  Failed - Carrier Delay  ,CARRIER_DELAY,,307
+100058,200058,Southwest,Coastal Express,12-Nov-2025,15-Nov-2025,15-Nov-2025,Delivered,,Y,171
+100059,200059,Southwest,Apex Freight,11/23/2025,11/27/2025,11/27/2025,Delivered,,Y,445
+100060,200060,Pacific Northwest,Apex Freight,12/13/2025,2025-12-17,2025-12-16,Delivered,,Y,444
+100061,200061,  Southwest  ,Summit Carriers,2025-10-29,11/01/2025,04-Nov-2025,Delivered - Late,,Y,429
+100062,200062,Midwest,Summit Carriers,2025-10-17,2025-10-22,22-Oct-2025,Delivered,,Y,453
+100063,200063,Midwest,Summit Carriers,24-Oct-2025,2025-10-26,2025-10-25,Delivered,,Y,403
+100064,200064,West,Summit Carriers,2025-11-02,2025-11-04,11/04/2025,Delivered,,Y,373
+100065,200065,Southwest,Apex Freight,23-Dec-2025,2025-12-25,12/25/2025,Delivered,,Y,171
+100066,200066,  Southwest  ,Northline Logistics,30-Nov-2025,2025-12-02,01-Dec-2025,Delivered,,Y,186
+100067,200067,Southeast,Northline Logistics,2025-11-09,11/11/2025,11/10/2025,Delivered,,Y,218
+100068,200068,Southeast,Northline Logistics,14-Oct-2025,10/17/2025,2025-10-17,Delivered,,Y,594
+100069,200069,Northeast,Coastal Express,08-Dec-2025,12-Dec-2025,12/11/2025,delivered,,N,445
+100070,200070,MOUNTAIN,Apex Freight,2025-11-25,11/28/2025,28-Nov-2025,Delivered,,Y,549
+100071,200071,west,  Summit Carriers  ,29-Nov-2025,03-Dec-2025,12/02/2025,Delivered,,Y,103
+100072,200072,West,  Summit Carriers  ,11/01/2025,05-Nov-2025,04-Nov-2025,Delivered,,N,347
+100073,200073,Midwest,Summit Carriers,28-Oct-2025,10/31/2025,2025-10-30,Delivered,,Y,544
+100074,200074,Southwest,Apex Freight,2025-10-31,2025-11-04,2025-11-03,DELIVERED,,Y,517
+100075,200075,Mountain,  Apex Freight  ,2025-10-12,2025-10-15,14-Oct-2025,Delivered,,Y,392
+100076,200076,Mountain,Coastal Express,24-Nov-2025,29-Nov-2025,11/28/2025,Delivered,,Y,251
+100077,200077,Southeast,Northline Logistics,11/10/2025,2025-11-12,2025-11-12,DELIVERED,,Y,510
+100078,200078,West,  Coastal Express  ,10/13/2025,16-Oct-2025,10/15/2025,Delivered,,N,561
+100079,200079,midwest,Coastal Express,2025-10-06,08-Oct-2025,10/08/2025,Delivered,,Y,517
+100080,200080,Southeast,Apex Freight,12/13/2025,16-Dec-2025,16-Dec-2025,Delivered,,Y,273
+100081,200081,Mountain,Apex Freight,2025-10-09,13-Oct-2025,10/13/2025,Delivered,,Y,591
+100082,200082,West,Apex Freight,01-Nov-2025,2025-11-03,03-Nov-2025,Delivered,,Y,404
+100083,200083,MOUNTAIN,Summit Carriers,08-Nov-2025,11/13/2025,13-Nov-2025,Delivered,,Y,116
+100084,200084,Southwest,Northline Logistics,03-Nov-2025,05-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,192
+100085,200085,Southeast,Northline Logistics,10/01/2025,2025-10-05,10/04/2025,DELIVERED,,N,310
+100086,200086,West,Summit Carriers,10-Oct-2025,10/13/2025,10/13/2025,Delivered,,Y,572
+100087,200087,Southwest,Northline Logistics,04-Nov-2025,07-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,184
+100088,200088,West,Coastal Express,26-Nov-2025,2025-11-28,2025-11-27,Delivered,,Y,527
+100089,200089,Mountain,Summit Carriers,10/11/2025,10/16/2025,,Failed - Wrong Address,ADDR_ERR,,457
+100090,200090,  Mid-Atlantic  ,COASTAL EXPRESS,2025-10-04,10/06/2025,06-Oct-2025,delivered,,Y,290
+100091,200091,Northeast,northline logistics,30-Nov-2025,12/05/2025,12/05/2025,  Delivered  ,,Y,461
+100092,200092,Mountain,Apex Freight,2025-11-30,03-Dec-2025,12/03/2025,delivered,,Y,352
+100093,200093,Pacific Northwest,summit carriers,06-Nov-2025,10-Nov-2025,11/09/2025,Delivered,,Y,273
+100094,200094,Mid-Atlantic,Apex Freight,11/21/2025,26-Nov-2025,2025-11-30,Delivered - Late,,Y,207
+100095,200095,Mid-Atlantic,Summit Carriers,2025-12-20,12/24/2025,2025-12-24,Delivered,,Y,463
+100096,200096,Mountain,apex freight,10/04/2025,10/09/2025,10/08/2025,Delivered,,Y,580
+100097,200097,Pacific Northwest,  Apex Freight  ,29-Oct-2025,31-Oct-2025,10/31/2025,Delivered,,Y,313
+100098,200098,West,Summit Carriers,01-Dec-2025,05-Dec-2025,12/04/2025,Delivered,,Y,535
+100099,200099,Midwest,Apex Freight,05-Nov-2025,11/09/2025,2025-11-08,Delivered,,Y,304
+100100,200100,West,Summit Carriers,10/20/2025,10/24/2025,2025-10-23,Delivered,,Y,344
+100101,200101,Southwest,  Northline Logistics  ,12/13/2025,17-Dec-2025,12/17/2025,Delivered,,Y,499
+100102,200102,Pacific Northwest,Summit Carriers,12/24/2025,2025-12-27,2025-12-30,Delivered - Late,,Y,465
+100103,200103,Southeast,Summit Carriers,10/02/2025,10/05/2025,10/05/2025,Delivered,,Y,286
+100104,200104,Mid-Atlantic,Summit Carriers,23-Dec-2025,12/25/2025,2025-12-24,Delivered,,Y,514
+100105,200105,Northeast,Apex Freight,31-Oct-2025,03-Nov-2025,11/02/2025,Delivered,,Y,117
+100106,200106,Mountain,Northline Logistics,2025-12-28,31-Dec-2025,2026-01-01,Delivered - Late,,Y,398
+100107,200107,Pacific Northwest,Northline Logistics,2025-11-01,2025-11-06,11/06/2025,Delivered,,Y,95
+100108,200108,Pacific Northwest,Northline Logistics,03-Dec-2025,2025-12-08,,Failed - Carrier Delay,CARRIER_DELAY,,487
+100109,200109,West,Summit Carriers,02-Nov-2025,04-Nov-2025,2025-11-03,Delivered,,Y,176
+100110,200110,Southeast,Summit Carriers,11/14/2025,2025-11-19,18-Nov-2025,Delivered,,Y,324
+100111,200111,Southwest,Summit Carriers,01-Dec-2025,12/03/2025,12/02/2025,Delivered,,Y,317
+100112,200112,Northeast,Summit Carriers,11/05/2025,07-Nov-2025,11/07/2025,Delivered,,Y,523
+100113,200113,West,Northline Logistics,2025-12-17,20-Dec-2025,19-Dec-2025,Delivered,,Y,155
+100114,200114,Southeast,  Apex Freight  ,11/09/2025,11/13/2025,,Failed - Wrong Address,ADDR_ERR,,388
+100115,200115,Midwest,Apex Freight,2025-11-07,11/10/2025,2025-11-10,Delivered,,Y,389
+100116,200116,West,Northline Logistics,2025-11-02,11/06/2025,2025-11-05,Delivered,,Y,494
+100117,200117,Southeast,Northline Logistics,29-Oct-2025,11/02/2025,2025-11-01,Delivered,,Y,419
+100118,200118,Northeast,Coastal Express,2025-12-08,2025-12-10,09-Dec-2025,Delivered,,Y,395
+100119,200119,Southeast,northline logistics,30-Nov-2025,02-Dec-2025,2025-12-01,DELIVERED,,Y,241
+100120,200120,Southeast,Summit Carriers,29-Dec-2025,01-Jan-2026,01/01/2026,Delivered,,Y,326
+100121,200121,mountain,Apex Freight,13-Oct-2025,2025-10-16,10/15/2025,Delivered,,Y,568
+100122,200122,pacific northwest,NORTHLINE LOGISTICS,2025-11-23,25-Nov-2025,2025-11-24,Delivered,,N,394
+100123,200123,Southwest,Summit Carriers,26-Nov-2025,2025-11-29,11/28/2025,Delivered,,Y,382
+100124,200124,  Northeast  ,Summit Carriers,2025-11-05,2025-11-08,11/07/2025,Delivered,,Y,232
+100125,200125,Northeast,Apex Freight,12-Nov-2025,2025-11-15,15-Nov-2025,Delivered,,Y,582
+100126,200126,Southwest,Northline Logistics,2025-10-30,02-Nov-2025,02-Nov-2025,Delivered,,Y,163
+100127,200127,Midwest,Coastal Express,23-Oct-2025,25-Oct-2025,26-Oct-2025,Delivered - Late,,Y,258
+100128,200128,Mid-Atlantic,Apex Freight,10/23/2025,10/26/2025,,Failed - Carrier Delay,CARRIER_DELAY,,446
+100129,200129,Southeast,Apex Freight,11/30/2025,2025-12-04,04-Dec-2025,Delivered,,Y,241
+100130,200130,Northeast,Coastal Express,28-Nov-2025,11/30/2025,,Failed - Wrong Address,ADDR_ERR,,505
+100131,200131,Pacific Northwest,Summit Carriers,27-Dec-2025,2025-12-29,12/29/2025,Delivered,,Y,344
+100132,200132,Midwest,Apex Freight,2025-10-17,2025-10-20,10/19/2025,Delivered,,Y,558
+100133,200133,west,SUMMIT CARRIERS,12/04/2025,09-Dec-2025,2025-12-09,Delivered,,Y,579
+100134,200134,Southwest,summit carriers,2025-11-27,30-Nov-2025,2025-11-29,Delivered,,Y,112
+100135,200135,MID-ATLANTIC,Summit Carriers,10-Nov-2025,11/13/2025,2025-11-12,Delivered,,Y,102
+100136,200136,Southeast,Summit Carriers,10/13/2025,10/16/2025,15-Oct-2025,  Delivered  ,,Y,435
+100137,200137,  Mid-Atlantic  ,Summit Carriers,07-Oct-2025,10-Oct-2025,10-Oct-2025,Delivered,,Y,508
+100138,200138,Southwest,Apex Freight,2025-11-14,2025-11-19,19-Nov-2025,DELIVERED,,Y,589
+100139,200139,Northeast,Coastal Express,04-Oct-2025,07-Oct-2025,10/06/2025,  Delivered  ,,Y,200
+100140,200140,Midwest,summit carriers,2025-10-09,10/12/2025,10/12/2025,Delivered,,Y,235
+100141,200141,PACIFIC NORTHWEST,Summit Carriers,11/28/2025,2025-12-01,30-Nov-2025,Delivered,,Y,596
+100142,200142,Southeast,Apex Freight,10/20/2025,10/23/2025,24-Oct-2025,Delivered - Late,,Y,449
+100143,200143,Mountain,Summit Carriers,2025-11-23,26-Nov-2025,2025-11-25,Delivered,,Y,305
+100144,200144,Mountain,Coastal Express,10/06/2025,10/09/2025,10/09/2025,Delivered,,Y,231
+100145,200145,Midwest,Coastal Express,11/07/2025,10-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,524
+100146,200146,Pacific Northwest,northline logistics,10/17/2025,10/21/2025,10/20/2025,DELIVERED,,Y,58
+100147,200147,Pacific Northwest,Apex Freight,28-Nov-2025,30-Nov-2025,29-Nov-2025,Delivered,,Y,442
+100148,200148,West,Apex Freight,2025-11-21,2025-11-23,11/22/2025,  Delivered  ,,Y,385
+100149,200149,Southeast,Summit Carriers,14-Oct-2025,2025-10-17,17-Oct-2025,Delivered,,Y,332
+100150,200150,Mid-Atlantic,Northline Logistics,2025-11-12,15-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,131
+100151,200151,Southwest,Coastal Express,14-Nov-2025,17-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,164
+100152,200152,West,Northline Logistics,2025-10-23,28-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,92
+100153,200153,midwest,Summit Carriers,29-Nov-2025,12/04/2025,12/03/2025,Delivered,,Y,338
+100154,200154,  Midwest  ,  Summit Carriers  ,2025-10-09,10/13/2025,12-Oct-2025,Delivered,,Y,375
+100155,200155,Southeast,  Coastal Express  ,11/29/2025,2025-12-03,,Failed - Wrong Address,ADDR_ERR,,392
+100156,200156,West,apex freight,12/22/2025,24-Dec-2025,23-Dec-2025,Delivered,,Y,57
+100157,200157,Mountain,NORTHLINE LOGISTICS,2025-11-11,2025-11-16,11/16/2025,Delivered,,Y,366
+100158,200158,Southeast,Northline Logistics,10/06/2025,09-Oct-2025,10/09/2025,Delivered,,Y,304
+100159,200159,Pacific Northwest,Summit Carriers,13-Nov-2025,2025-11-18,,Failed - Carrier Delay,CARRIER_DELAY,,357
+100160,200160,  Southeast  ,coastal express,10/13/2025,2025-10-18,2025-10-18,delivered,,Y,611
+100161,200161,Midwest,Coastal Express,11/09/2025,13-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,101
+100162,200162,West,Summit Carriers,2025-12-22,2025-12-25,12/25/2025,Delivered,,Y,448
+100163,200163,  Mid-Atlantic  ,Apex Freight,11/16/2025,11/19/2025,11/18/2025,Delivered,,Y,155
+100164,200164,Midwest,Apex Freight,07-Nov-2025,11/09/2025,11/09/2025,  Delivered  ,,Y,149
+100165,200165,Pacific Northwest,NORTHLINE LOGISTICS,10/21/2025,10/24/2025,2025-10-24,Delivered,,Y,59
+100166,200166,Pacific Northwest,Coastal Express,2025-12-26,12/29/2025,12/28/2025,Delivered,,Y,259
+100167,200167,West,Summit Carriers,25-Oct-2025,28-Oct-2025,10/27/2025,Delivered,,Y,303
+100168,200168,Pacific Northwest,Summit Carriers,10/21/2025,10/24/2025,10/23/2025,Delivered,,Y,507
+100169,200169,MID-ATLANTIC,Apex Freight,12/06/2025,08-Dec-2025,07-Dec-2025,delivered,,Y,540
+100170,200170,Midwest,Summit Carriers,10/12/2025,15-Oct-2025,15-Oct-2025,  Delivered  ,,Y,420
+100171,200171,Mid-Atlantic,Northline Logistics,11/19/2025,11/21/2025,11/22/2025,Delivered - Late,,Y,358
+100172,200172,Midwest,Northline Logistics,05-Oct-2025,08-Oct-2025,2025-10-08,Delivered,,Y,495
+100173,200173,Mountain,Apex Freight,10/11/2025,2025-10-13,2025-10-12,Delivered,,Y,310
+100174,200174,Southwest,Coastal Express,10/16/2025,18-Oct-2025,,FAILED - CARRIER DELAY,CARRIER_DELAY,,483
+100175,200175,Southeast,Apex Freight,2025-12-03,08-Dec-2025,2025-12-08,Delivered,,Y,313
+100176,200176,  Pacific Northwest  ,Apex Freight,2025-12-18,21-Dec-2025,12/21/2025,Delivered,,Y,384
+100177,200177,Southeast,Apex Freight,2025-11-19,23-Nov-2025,,Failed - Wrong Address,ADDR_ERR,,411
+100178,200178,Mid-Atlantic,Coastal Express,03-Oct-2025,2025-10-06,10/06/2025,  Delivered  ,,Y,355
+100179,200179,Midwest,apex freight,15-Nov-2025,2025-11-20,2025-11-19,Delivered,,Y,505
+100180,200180,Midwest,NORTHLINE LOGISTICS,10/09/2025,10/13/2025,,  Failed - Wrong Address  ,ADDR_ERR,,221
+100181,200181,Northeast,Northline Logistics,06-Oct-2025,2025-10-09,08-Oct-2025,DELIVERED,,Y,210
+100182,200182,West,Coastal Express,10/07/2025,10-Oct-2025,09-Oct-2025,Delivered,,Y,465
+100183,200183,Pacific Northwest,Coastal Express,10/24/2025,2025-10-28,27-Oct-2025,Delivered,,Y,449
+100184,200184,Southeast,summit carriers,2025-12-17,20-Dec-2025,2025-12-20,Delivered,,Y,317
+100185,200185,West,Summit Carriers,12/17/2025,12/21/2025,2025-12-20,Delivered,,Y,376
+100186,200186,Pacific Northwest,  Coastal Express  ,2025-12-21,12/23/2025,,Failed - Wrong Address,ADDR_ERR,,430
+100187,200187,Mid-Atlantic,Northline Logistics,10/04/2025,10/07/2025,06-Oct-2025,Delivered,,N,83
+100188,200188,Southwest,Coastal Express,2025-11-16,11/20/2025,2025-11-22,Delivered - Late,,Y,394
+100189,200189,mid-atlantic,Summit Carriers,10/10/2025,15-Oct-2025,2025-10-14,Delivered,,Y,270
+100190,200190,Southeast,Apex Freight,2025-10-24,10/28/2025,28-Oct-2025,DELIVERED,,Y,281
+100191,200191,Mountain,Northline Logistics,12/18/2025,2025-12-21,2025-12-21,Delivered,,Y,90
+100192,200192,Mountain,Northline Logistics,26-Nov-2025,11/28/2025,11/27/2025,Delivered,,Y,81
+100193,200193,West,Coastal Express,10/21/2025,24-Oct-2025,2025-10-24,Delivered,,Y,157
+100194,200194,Southwest,Summit Carriers,2025-10-04,10/07/2025,10/07/2025,Delivered,,Y,103
+100195,200195,SOUTHEAST,Coastal Express,2025-11-20,2025-11-24,11/24/2025,Delivered,,Y,339
+100196,200196,southeast,Summit Carriers,29-Nov-2025,12/04/2025,04-Dec-2025,delivered,,Y,147
+100197,200197,Pacific Northwest,Apex Freight,10/16/2025,2025-10-21,20-Oct-2025,Delivered,,Y,245
+100198,200198,Mid-Atlantic,Coastal Express,10/11/2025,10/14/2025,2025-10-13,Delivered,,Y,325
+100199,200199,Southeast,  Northline Logistics  ,12/15/2025,20-Dec-2025,,Failed - Carrier Delay,CARRIER_DELAY,,360
+100200,200200,Northeast,APEX FREIGHT,2025-10-11,10/13/2025,2025-10-12,delivered,,Y,600
+100201,200201,Pacific Northwest,Apex Freight,12/03/2025,12/08/2025,12/07/2025,  Delivered  ,,Y,430
+100202,200202,,Summit Carriers,10-Oct-2025,12-Oct-2025,11-Oct-2025,Delivered,,Y,162
+100203,200203,Mid-Atlantic,Coastal Express,14-Nov-2025,11/18/2025,,Failed - Carrier Delay,CARRIER_DELAY,,394
+100204,200204,Southeast,Coastal Express,10/31/2025,11/04/2025,,Failed - Carrier Delay,CARRIER_DELAY,,475
+100205,200205,Southwest,Northline Logistics,10/13/2025,15-Oct-2025,14-Oct-2025,Delivered,,Y,178
+100206,200206,Mid-Atlantic,Coastal Express,10/25/2025,2025-10-28,2025-10-27,DELIVERED,,Y,524
+100207,200207,Northeast,Apex Freight,20-Nov-2025,25-Nov-2025,11/24/2025,DELIVERED,,Y,303
+100208,200208,Mountain,Summit Carriers,11/06/2025,11-Nov-2025,,Failed - Wrong Address,ADDR_ERR,,125
+100209,200209,Pacific Northwest,Northline Logistics,2025-11-03,2025-11-06,11/05/2025,Delivered,,Y,590
+100210,200210,Southwest,Coastal Express,10-Dec-2025,2025-12-13,,Failed - Wrong Address,ADDR_ERR,,531
+100211,200211,Mountain,Coastal Express,19-Dec-2025,12/24/2025,,Failed - Carrier Delay,CARRIER_DELAY,,114
+100212,200212,Pacific Northwest,Coastal Express,2025-11-13,18-Nov-2025,18-Nov-2025,Delivered,,Y,426
+100213,200213,Northeast,  Apex Freight  ,2025-10-05,08-Oct-2025,2025-10-07,Delivered,,Y,542
+100214,200214,Midwest,  Coastal Express  ,2025-12-18,2025-12-21,,  Failed - Customer Unavailable  ,CUST_UNAVAIL,,321
+100215,200215,Mid-Atlantic,Summit Carriers,2025-12-12,15-Dec-2025,2025-12-18,Delivered - Late,,Y,441
+100216,200216,West,Apex Freight,16-Dec-2025,12/20/2025,2025-12-20,DELIVERED,,Y,612
+100217,200217,Mountain,Northline Logistics,2025-12-07,2025-12-12,2025-12-12,DELIVERED,,N,127
+100218,200218,Southwest,Apex Freight,2025-11-26,29-Nov-2025,29-Nov-2025,Delivered,,Y,497
+100219,200219,northeast,Northline Logistics,2025-12-06,2025-12-09,08-Dec-2025,Delivered,,Y,336
+100220,200220,Midwest,Summit Carriers,08-Dec-2025,2025-12-11,2025-12-10,Delivered,,Y,211
+100221,200221,Southwest,Coastal Express,2025-12-11,12/14/2025,,Failed - Carrier Delay,CARRIER_DELAY,,319
+100222,200222,West,Northline Logistics,2025-12-28,01-Jan-2026,2025-12-31,Delivered,,Y,602
+100223,200223,Pacific Northwest,Summit Carriers,11/14/2025,11/17/2025,17-Nov-2025,delivered,,Y,467
+100224,200224,West,Summit Carriers,2025-10-28,2025-10-31,10/30/2025,Delivered,,Y,615
+100225,200225,Southwest,Northline Logistics,07-Oct-2025,10/12/2025,12-Oct-2025,DELIVERED,,Y,498
+100226,200226,Southeast,Northline Logistics,2025-10-01,06-Oct-2025,2025-10-05,  Delivered  ,,Y,219
+100227,200227,West,Coastal Express,2025-11-06,2025-11-08,2025-11-08,Delivered,,Y,53
+100228,200228,  Midwest  ,SUMMIT CARRIERS,23-Oct-2025,10/25/2025,10/24/2025,Delivered,,Y,311
+100229,200229,Northeast,Apex Freight,11/08/2025,2025-11-13,12-Nov-2025,Delivered,,Y,571
+100230,200230,Mountain,Northline Logistics,2025-12-04,12/08/2025,2025-12-07,Delivered,,Y,484
+100231,200231,West,Northline Logistics,2025-10-02,05-Oct-2025,2025-10-05,Delivered,,Y,430
+100232,200232,Pacific Northwest,Coastal Express,10/12/2025,16-Oct-2025,16-Oct-2025,Delivered,,Y,269
+100233,200233,Northeast,Coastal Express,11/19/2025,22-Nov-2025,11/21/2025,Delivered,,Y,601
+100234,200234,Northeast,Coastal Express,2025-12-23,12/26/2025,2025-12-26,Delivered,,Y,178
+100235,200235,Pacific Northwest,Coastal Express,28-Dec-2025,30-Dec-2025,12/29/2025,Delivered,,Y,239
+100236,200236,Midwest,Summit Carriers,2025-10-20,24-Oct-2025,10/23/2025,Delivered,,Y,497
+100237,200237,Southwest,NORTHLINE LOGISTICS,27-Dec-2025,01-Jan-2026,05-Jan-2026,Delivered - Late,,Y,385
+100238,200238,Southeast,Apex Freight,10/08/2025,2025-10-13,2025-10-13,Delivered,,Y,547
+100239,200239,Mountain,  Apex Freight  ,12/27/2025,30-Dec-2025,29-Dec-2025,Delivered,,Y,479
+100240,200240,Midwest,Summit Carriers,28-Nov-2025,2025-12-03,,Failed - Carrier Delay,CARRIER_DELAY,,488
+100241,200241,West,Apex Freight,11/20/2025,23-Nov-2025,2025-11-23,delivered,,Y,367
+100242,200242,southeast,Apex Freight,09-Oct-2025,13-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,433
+100243,200243,Midwest,Northline Logistics,2025-12-22,26-Dec-2025,2025-12-25,Delivered,,Y,401
+100244,200244,Pacific Northwest,APEX FREIGHT,27-Dec-2025,01-Jan-2026,01-Jan-2026,Delivered,,Y,565
+100245,200245,Pacific Northwest,northline logistics,10/29/2025,10/31/2025,30-Oct-2025,Delivered,,Y,572
+100246,200246,Pacific Northwest,Summit Carriers,2025-10-30,2025-11-02,02-Nov-2025,Delivered,,Y,130
+100247,200247,Northeast,Summit Carriers,2025-12-18,12/20/2025,2025-12-20,  Delivered  ,,Y,64
+100248,200248,Southwest,Apex Freight,21-Nov-2025,2025-11-25,2025-11-25,Delivered,,Y,311
+100249,200249,Southwest,Coastal Express,13-Dec-2025,2025-12-18,12/18/2025,Delivered,,Y,161
+100250,200250,Southwest,Summit Carriers,08-Nov-2025,11/11/2025,,Failed - Carrier Delay,CARRIER_DELAY,,620
+100251,200251,Midwest,Summit Carriers,2025-12-11,15-Dec-2025,,Failed - Wrong Address,ADDR_ERR,,367
+100252,200252,Pacific Northwest,Coastal Express,29-Dec-2025,02-Jan-2026,01/02/2026,Delivered,,Y,499
+100253,200253,Southwest,Northline Logistics,2025-11-08,2025-11-11,11/10/2025,DELIVERED,,Y,585
+100254,200254,Midwest,Summit Carriers,01-Nov-2025,11/04/2025,2025-11-03,Delivered,,Y,109
+100255,200255,Southwest,Apex Freight,11/04/2025,2025-11-08,2025-11-08,Delivered,,Y,616
+100256,200256,Southwest,SUMMIT CARRIERS,10/27/2025,10/30/2025,10/30/2025,Delivered,,Y,135
+100257,200257,  Mountain  ,NORTHLINE LOGISTICS,29-Dec-2025,03-Jan-2026,2026-01-03,delivered,,Y,304
+100258,200258,Pacific Northwest,Summit Carriers,2025-12-08,11-Dec-2025,12/10/2025,Delivered,,Y,495
+100259,200259,Mid-Atlantic,Northline Logistics,11/17/2025,2025-11-20,11/20/2025,Delivered,,Y,31
+100260,200260,West,SUMMIT CARRIERS,07-Nov-2025,2025-11-10,11/10/2025,Delivered,,Y,360
+100261,200261,West,Summit Carriers,2025-12-22,12/26/2025,25-Dec-2025,Delivered,,Y,574
+100262,200262,Mountain,Northline Logistics,12/09/2025,2025-12-11,2025-12-11,Delivered,,Y,64
+100263,200263,Northeast,Summit Carriers,18-Oct-2025,10/21/2025,,  Failed - Carrier Delay  ,CARRIER_DELAY,,169
+100264,200264,Northeast,northline logistics,2025-12-04,2025-12-08,2025-12-07,Delivered,,Y,31
+100265,200265,Northeast,Summit Carriers,02-Oct-2025,10/04/2025,10/03/2025,delivered,,N,455
+100266,200266,Midwest,Apex Freight,2025-10-13,2025-10-18,2025-10-17,Delivered,,Y,288
+100267,200267,Pacific Northwest,Apex Freight,11/17/2025,11/21/2025,11/21/2025,DELIVERED,,Y,97
+100268,200268,Northeast,APEX FREIGHT,21-Nov-2025,11/25/2025,11/25/2025,Delivered,,Y,99
+100269,200269,Mountain,Summit Carriers,2025-12-22,12/25/2025,2025-12-25,Delivered,,Y,58
+100270,200270,Southwest,Northline Logistics,2025-12-28,02-Jan-2026,03-Jan-2026,Delivered - Late,,Y,302
+100271,200271,Northeast,Northline Logistics,10-Nov-2025,2025-11-12,11/11/2025,Delivered,,Y,321
+100272,200272,Midwest,Northline Logistics,12-Dec-2025,16-Dec-2025,15-Dec-2025,delivered,,Y,158
+100273,200273,Southeast,Coastal Express,10/07/2025,10/09/2025,2025-10-08,Delivered,,Y,421
+100274,200274,Mid-Atlantic,Apex Freight,2025-12-21,24-Dec-2025,12/24/2025,Delivered,,Y,399
+100275,200275,Pacific Northwest,Northline Logistics,2025-12-27,2026-01-01,2026-01-04,Delivered - Late,,Y,90
+100276,200276,,Coastal Express,2025-10-20,10/24/2025,23-Oct-2025,Delivered,,Y,124
+100277,200277,Southeast,Apex Freight,09-Nov-2025,2025-11-13,2025-11-13,Delivered,,Y,456
+100278,200278,Mountain,Summit Carriers,14-Oct-2025,10/16/2025,,Failed - Carrier Delay,CARRIER_DELAY,,582
+100279,200279,Southeast,Coastal Express,11/19/2025,11/21/2025,11/21/2025,Delivered,,Y,587
+100280,200280,Southwest,Northline Logistics,27-Dec-2025,2025-12-31,,Failed - Carrier Delay,CARRIER_DELAY,,290
+100281,200281,West,Coastal Express,2025-12-03,06-Dec-2025,,  Failed - Wrong Address  ,ADDR_ERR,,460
+100282,200282,  West  ,Summit Carriers,2025-11-08,12-Nov-2025,12-Nov-2025,Delivered,,Y,522
+100283,200283,Southwest,Summit Carriers,14-Oct-2025,10/17/2025,10/16/2025,Delivered,,Y,404
+100284,200284,  Mid-Atlantic  ,Summit Carriers,11/12/2025,11/16/2025,2025-11-16,Delivered,,Y,220
+100285,200285,Mountain,Coastal Express,23-Oct-2025,10/27/2025,2025-10-26,Delivered,,Y,263
+100286,200286,Mid-Atlantic,Summit Carriers,11/05/2025,11/09/2025,09-Nov-2025,Delivered,,Y,573
+100287,200287,Midwest,Apex Freight,29-Nov-2025,2025-12-02,12/02/2025,DELIVERED,,Y,433
+100288,200288,Mountain,Northline Logistics,21-Dec-2025,12/24/2025,23-Dec-2025,Delivered,,Y,90
+100289,200289,Mountain,Summit Carriers,14-Dec-2025,2025-12-18,12/17/2025,Delivered,,Y,383
+100290,200290,Southeast,apex freight,01-Nov-2025,04-Nov-2025,11/03/2025,Delivered,,Y,354
+100291,200291,pacific northwest,Apex Freight,10/02/2025,2025-10-04,04-Oct-2025,Delivered,,Y,415
+100292,200292,  Mountain  ,Northline Logistics,11/14/2025,11/16/2025,2025-11-16,Delivered,,Y,160
+100293,200293,Mid-Atlantic,Coastal Express,2025-11-13,17-Nov-2025,16-Nov-2025,Delivered,,Y,463
+100294,200294,Mountain,Coastal Express,10/09/2025,12-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,132
+100295,200295,Northeast,Coastal Express,2025-12-22,12/24/2025,24-Dec-2025,Delivered,,Y,580
+100296,200296,Midwest,  Coastal Express  ,11-Dec-2025,15-Dec-2025,14-Dec-2025,Delivered,,Y,205
+100297,200297,Pacific Northwest,Summit Carriers,04-Oct-2025,10/09/2025,10/08/2025,Delivered,,Y,234
+100298,200298,Southwest,Coastal Express,2025-10-09,14-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,564
+100299,200299,Midwest,Coastal Express,11/11/2025,11/14/2025,13-Nov-2025,Delivered,,Y,335
+100300,200300,Pacific Northwest,Summit Carriers,2025-12-15,2025-12-17,17-Dec-2025,Delivered,,Y,319
+100301,200301,Southeast,Northline Logistics,11/10/2025,2025-11-12,2025-11-15,Delivered - Late,,Y,538
+100302,200302,Pacific Northwest,Summit Carriers,2025-12-16,12/19/2025,18-Dec-2025,Delivered,,Y,192
+100303,200303,Midwest,summit carriers,06-Nov-2025,11/09/2025,2025-11-09,Delivered,,Y,24
+100304,200304,Mountain,  Northline Logistics  ,25-Oct-2025,10/29/2025,2025-10-28,Delivered,,Y,518
+100305,200305,Pacific Northwest,Summit Carriers,12/02/2025,05-Dec-2025,,Failed - Carrier Delay,CARRIER_DELAY,,46
+100306,200306,Southwest,Coastal Express,10/05/2025,10/08/2025,,Failed - Carrier Delay,CARRIER_DELAY,,310
+100307,200307,Midwest,Summit Carriers,12/12/2025,12/16/2025,2025-12-16,Delivered,,Y,571
+100308,200308,Mid-Atlantic,Apex Freight,11/26/2025,12/01/2025,12/01/2025,Delivered,,Y,48
+100309,200309,Mountain,Coastal Express,14-Nov-2025,11/16/2025,11/16/2025,Delivered,,Y,617
+100310,200310,Mid-Atlantic,Summit Carriers,22-Oct-2025,2025-10-27,10/27/2025,delivered,,Y,598
+100311,200311,Mid-Atlantic,Coastal Express,12/16/2025,12/21/2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,314
+100312,200312,West,Coastal Express,12/05/2025,07-Dec-2025,,Failed - Carrier Delay,CARRIER_DELAY,,436
+100313,200313,Northeast,Coastal Express,2025-12-23,26-Dec-2025,2025-12-26,Delivered,,Y,268
+100314,200314,Pacific Northwest,SUMMIT CARRIERS,19-Oct-2025,10/24/2025,2025-10-23,Delivered,,Y,110
+100315,200315,  Pacific Northwest  ,Coastal Express,12/28/2025,12/31/2025,12/31/2025,Delivered,,Y,110
+100316,200316,Mountain,Coastal Express,10/09/2025,10/14/2025,2025-10-14,  Delivered  ,,Y,345
+100317,200317,West,Coastal Express,2025-12-10,15-Dec-2025,,Failed - Carrier Delay,CARRIER_DELAY,,511
+100318,200318,Mid-Atlantic,apex freight,2025-10-06,08-Oct-2025,2025-10-08,Delivered,,Y,176
+100319,200319,Mountain,Summit Carriers,2025-10-01,2025-10-05,10/05/2025,Delivered,,Y,324
+100320,200320,Midwest,Coastal Express,10/12/2025,15-Oct-2025,10/15/2025,Delivered,,Y,327
+100321,200321,  Southwest  ,summit carriers,23-Dec-2025,12/25/2025,2025-12-29,DELIVERED - LATE,,Y,246
+100322,200322,  Mountain  ,APEX FREIGHT,2025-10-02,10/05/2025,10/04/2025,Delivered,,Y,504
+100323,200323,Southeast,northline logistics,19-Nov-2025,11/21/2025,24-Nov-2025,Delivered - Late,,Y,321
+100324,200324,Midwest,Summit Carriers,2025-10-18,2025-10-21,,Failed - Carrier Delay,CARRIER_DELAY,,591
+100325,200325,Northeast,Northline Logistics,26-Nov-2025,29-Nov-2025,2025-11-29,Delivered,,Y,468
+100326,200326,Southwest,Apex Freight,10/13/2025,2025-10-16,15-Oct-2025,Delivered,,Y,454
+100327,200327,Mid-Atlantic,Northline Logistics,01-Nov-2025,11/04/2025,2025-11-03,DELIVERED,,Y,42
+100328,200328,West,Northline Logistics,12/06/2025,2025-12-11,12/10/2025,Delivered,,Y,260
+100329,200329,Mountain,Summit Carriers,15-Oct-2025,2025-10-18,18-Oct-2025,Delivered,,Y,339
+100330,200330,Midwest,  Summit Carriers  ,12-Dec-2025,2025-12-16,12/15/2025,Delivered,,Y,89
+100331,200331,Northeast,Apex Freight,02-Oct-2025,10/05/2025,2025-10-04,DELIVERED,,Y,528
+100332,200332,Pacific Northwest,Summit Carriers,2025-12-29,01/02/2026,,Failed - Carrier Delay,CARRIER_DELAY,,564
+100333,200333,Midwest,Coastal Express,10/11/2025,10/14/2025,,Failed - Wrong Address,ADDR_ERR,,223
+100334,200334,Midwest,Coastal Express,20-Nov-2025,25-Nov-2025,11/25/2025,Delivered,,Y,462
+100335,200335,Southwest,Apex Freight,2025-11-01,03-Nov-2025,03-Nov-2025,Delivered,,Y,194
+100336,200336,Southeast,Apex Freight,10/18/2025,2025-10-20,19-Oct-2025,Delivered,,Y,144
+100337,200337,west,APEX FREIGHT,04-Oct-2025,07-Oct-2025,10/07/2025,Delivered,,Y,605
+100338,200338,Southeast,Summit Carriers,28-Nov-2025,03-Dec-2025,2025-12-03,Delivered,,Y,276
+100339,200339,Southeast,Apex Freight,10/30/2025,11/04/2025,,Failed - Wrong Address,ADDR_ERR,,27
+100340,200340,southwest,Apex Freight,30-Nov-2025,12/03/2025,2025-12-03,Delivered,,Y,444
+100341,200341,Southwest,Coastal Express,2025-11-01,11/05/2025,11/05/2025,Delivered,,Y,137
+100342,200342,Northeast,Northline Logistics,2025-10-29,11/03/2025,2025-11-03,Delivered,,Y,304
+100343,200343,West,Coastal Express,12-Oct-2025,17-Oct-2025,10/16/2025,Delivered,,Y,326
+100344,200344,Southwest,Summit Carriers,17-Nov-2025,2025-11-22,22-Nov-2025,Delivered,,Y,574
+100345,200345,SOUTHWEST,Northline Logistics,01-Oct-2025,10/05/2025,,Failed - Wrong Address,ADDR_ERR,,569
+100346,200346,Mid-Atlantic,Apex Freight,12-Nov-2025,14-Nov-2025,13-Nov-2025,Delivered,,Y,557
+100347,200347,Southwest,Summit Carriers,2025-12-02,2025-12-04,12/03/2025,Delivered,,Y,252
+100348,200348,Pacific Northwest,COASTAL EXPRESS,28-Nov-2025,11/30/2025,2025-11-29,Delivered,,Y,596
+100349,200349,Northeast,Summit Carriers,24-Dec-2025,12/27/2025,26-Dec-2025,Delivered,,Y,417
+100350,200350,Mid-Atlantic,Coastal Express,27-Nov-2025,11/30/2025,11/30/2025,Delivered,,Y,613
+100351,200351,Southeast,Northline Logistics,2025-10-14,10/17/2025,10/17/2025,delivered,,Y,227
+100352,200352,Mountain,coastal express,11/29/2025,12/02/2025,2025-12-01,Delivered,,Y,56
+100353,200353,SOUTHWEST,COASTAL EXPRESS,10/19/2025,2025-10-21,10/20/2025,DELIVERED,,Y,321
+100354,200354,West,Northline Logistics,2025-10-04,2025-10-08,2025-10-08,Delivered,,Y,119
+100355,200355,Midwest,Apex Freight,10/02/2025,10/04/2025,04-Oct-2025,delivered,,Y,425
+100356,200356,  Mid-Atlantic  ,Apex Freight,2025-12-14,2025-12-19,2025-12-19,DELIVERED,,Y,217
+100357,200357,Mountain,Northline Logistics,10/12/2025,15-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,487
+100358,200358,Northeast,Northline Logistics,12/13/2025,2025-12-17,2025-12-17,Delivered,,Y,451
+100359,200359,Midwest,COASTAL EXPRESS,10/28/2025,10/31/2025,2025-10-31,Delivered,,N,266
+100360,200360,West,Summit Carriers,2025-11-22,27-Nov-2025,2025-11-26,Delivered,,Y,219
+100361,200361,Southwest,Apex Freight,18-Nov-2025,2025-11-21,2025-11-20,Delivered,,Y,529
+100362,200362,Mid-Atlantic,Summit Carriers,04-Nov-2025,07-Nov-2025,,Failed - Wrong Address,ADDR_ERR,,239
+100363,200363,Northeast,Coastal Express,10/08/2025,12-Oct-2025,10/12/2025,Delivered,,Y,117
+100364,200364,Southwest,Northline Logistics,04-Nov-2025,11/09/2025,09-Nov-2025,delivered,,Y,239
+100365,200365,Pacific Northwest,Coastal Express,10/23/2025,2025-10-26,2025-10-25,Delivered,,Y,43
+100366,200366,Mid-Atlantic,NORTHLINE LOGISTICS,12-Dec-2025,12/15/2025,2025-12-14,Delivered,,Y,194
+100367,200367,Mountain,Apex Freight,2025-10-12,10/14/2025,13-Oct-2025,Delivered,,N,221
+100368,200368,MIDWEST,COASTAL EXPRESS,10/23/2025,10/26/2025,,Failed - Wrong Address,ADDR_ERR,,166
+100369,200369,midwest,Apex Freight,2025-12-07,12/10/2025,12/09/2025,Delivered,,Y,359
+100370,200370,west,Coastal Express,2025-10-18,2025-10-21,2025-10-20,Delivered,,Y,193
+100371,200371,Mid-Atlantic,Northline Logistics,25-Dec-2025,2025-12-30,2025-12-29,Delivered,,Y,16
+100372,200372,Pacific Northwest,APEX FREIGHT,24-Oct-2025,10/29/2025,29-Oct-2025,delivered,,Y,121
+100373,200373,Mountain,Northline Logistics,11/12/2025,14-Nov-2025,2025-11-14,DELIVERED,,Y,105
+100374,200374,Mid-Atlantic,  Summit Carriers  ,2025-10-02,2025-10-05,2025-10-04,Delivered,,Y,125
+100375,200375,Northeast,  Apex Freight  ,11/19/2025,11/23/2025,22-Nov-2025,  Delivered  ,,Y,402
+100376,200376,Mid-Atlantic,Summit Carriers,13-Oct-2025,2025-10-17,10/17/2025,Delivered,,Y,90
+100377,200377,Northeast,Coastal Express,03-Oct-2025,10/06/2025,2025-10-05,Delivered,,Y,399
+100378,200378,Midwest,Apex Freight,12/10/2025,12/12/2025,11-Dec-2025,Delivered,,Y,456
+100379,200379,Midwest,Summit Carriers,2025-10-21,23-Oct-2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,225
+100380,200380,Southwest,Summit Carriers,2025-12-29,01/03/2026,01/02/2026,Delivered,,Y,319
+100381,200381,  Southwest  ,Apex Freight,2025-10-07,10/11/2025,10/11/2025,Delivered,,Y,18
+100382,200382,Pacific Northwest,Apex Freight,2025-11-07,2025-11-12,11/12/2025,Delivered,,Y,313
+100383,200383,Southeast,Summit Carriers,15-Oct-2025,18-Oct-2025,10/17/2025,Delivered,,Y,572
+100384,200384,Pacific Northwest,Northline Logistics,11/17/2025,2025-11-21,11/20/2025,Delivered,,Y,284
+100385,200385,SOUTHWEST,Coastal Express,12-Dec-2025,14-Dec-2025,,Failed - Wrong Address,ADDR_ERR,,114
+100386,200386,Southeast,Coastal Express,09-Dec-2025,12/13/2025,12/13/2025,Delivered,,Y,550
+100387,200387,PACIFIC NORTHWEST,Summit Carriers,13-Dec-2025,16-Dec-2025,12/16/2025,Delivered,,Y,544
+100388,200388,Midwest,Apex Freight,27-Nov-2025,2025-11-30,2025-11-30,Delivered,,Y,144
+100389,200389,Northeast,Summit Carriers,10/11/2025,10/15/2025,15-Oct-2025,Delivered,,Y,279
+100390,200390,Mid-Atlantic,Apex Freight,10/12/2025,16-Oct-2025,15-Oct-2025,Delivered,,Y,27
+100391,200391,Pacific Northwest,Apex Freight,2025-11-23,26-Nov-2025,2025-11-26,Delivered,,Y,591
+100392,200392,Southeast,Coastal Express,12/08/2025,2025-12-11,12/10/2025,Delivered,,Y,499
+100393,200393,Northeast,Northline Logistics,05-Nov-2025,09-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,426
+100394,200394,Northeast,Summit Carriers,2025-11-12,2025-11-15,,Failed - Wrong Address,ADDR_ERR,,501
+100395,200395,West,Coastal Express,2025-10-03,2025-10-06,10/05/2025,Delivered,,Y,115
+100396,200396,Southwest,Northline Logistics,11/08/2025,11/12/2025,11/11/2025,Delivered,,Y,106
+100397,200397,Southwest,Summit Carriers,2025-10-28,2025-11-01,10/31/2025,  Delivered  ,,Y,542
+100398,200398,Midwest,Apex Freight,11/09/2025,2025-11-14,14-Nov-2025,Delivered,,Y,220
+100399,200399,Northeast,Northline Logistics,2025-10-05,09-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,384
+100400,200400,Southwest,Coastal Express,17-Nov-2025,2025-11-21,2025-11-21,Delivered,,Y,262
+100401,200401,Mid-Atlantic,Summit Carriers,2025-12-16,2025-12-20,19-Dec-2025,Delivered,,Y,279
+100402,200402,Southeast,coastal express,10/04/2025,08-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,600
+100403,200403,Southwest,Northline Logistics,22-Dec-2025,12/25/2025,12/24/2025,Delivered,,Y,24
+100404,200404,Mountain,Northline Logistics,2025-12-22,12/25/2025,28-Dec-2025,Delivered - Late,,Y,327
+100405,200405,West,Summit Carriers,11/18/2025,11/21/2025,11/20/2025,Delivered,,Y,421
+100406,200406,SOUTHEAST,Apex Freight,05-Dec-2025,08-Dec-2025,2025-12-07,Delivered,,Y,125
+100407,200407,Mountain,Apex Freight,13-Nov-2025,11/16/2025,11/15/2025,Delivered,,Y,320
+100408,200408,Southwest,Northline Logistics,06-Dec-2025,2025-12-09,12/08/2025,Delivered,,Y,158
+100409,200409,Northeast,Summit Carriers,11/07/2025,11/10/2025,11/10/2025,Delivered,,Y,600
+100410,200410,Southwest,Coastal Express,29-Oct-2025,2025-11-03,2025-11-02,Delivered,,Y,189
+100411,200411,Midwest,Coastal Express,2025-10-13,2025-10-17,,Failed - Carrier Delay,CARRIER_DELAY,,279
+100412,200412,Midwest,Coastal Express,2025-12-23,25-Dec-2025,12/24/2025,Delivered,,Y,354
+100413,200413,Mid-Atlantic,Coastal Express,14-Dec-2025,2025-12-17,2025-12-17,Delivered,,Y,612
+100414,200414,Southeast,Summit Carriers,25-Oct-2025,10/30/2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,405
+100415,200415,West,Summit Carriers,10/07/2025,10/10/2025,2025-10-09,Delivered,,Y,483
+100416,200416,Midwest,Coastal Express,2025-10-24,26-Oct-2025,26-Oct-2025,  Delivered  ,,Y,74
+100417,200417,Northeast,Summit Carriers,05-Nov-2025,2025-11-08,08-Nov-2025,Delivered,,Y,105
+100418,200418,Midwest,Summit Carriers,21-Dec-2025,25-Dec-2025,2025-12-24,Delivered,,N,561
+100419,200419,Southwest,Coastal Express,2025-10-02,2025-10-05,2025-10-05,Delivered,,Y,269
+100420,200420,Southwest,Coastal Express,09-Nov-2025,11/12/2025,,Failed - Wrong Address,ADDR_ERR,,530
+100421,200421,West,Northline Logistics,10/09/2025,10/11/2025,10-Oct-2025,Delivered,,Y,152
+100422,200422,Mid-Atlantic,Summit Carriers,2025-11-15,2025-11-18,11/17/2025,Delivered,,N,244
+100423,200423,Midwest,Northline Logistics,2025-10-03,10/08/2025,10/08/2025,Delivered,,Y,276
+100424,200424,Northeast,Apex Freight,24-Dec-2025,12/26/2025,27-Dec-2025,Delivered - Late,,Y,404
+100425,200425,Southeast,Coastal Express,2025-11-30,2025-12-03,2025-12-03,  Delivered  ,,Y,118
+100426,200426,west,Northline Logistics,11/23/2025,2025-11-25,11/24/2025,Delivered,,Y,123
+100427,200427,Mountain,Northline Logistics,2025-12-17,2025-12-20,12/20/2025,Delivered,,Y,434
+100428,200428,West,Northline Logistics,10/06/2025,2025-10-11,2025-10-10,Delivered,,Y,17
+100429,200429,Northeast,Apex Freight,15-Oct-2025,2025-10-20,10/20/2025,Delivered,,Y,91
+100430,200430,Southeast,Coastal Express,12/22/2025,2025-12-25,24-Dec-2025,Delivered,,Y,117
+100431,200431,Midwest,Apex Freight,07-Nov-2025,10-Nov-2025,2025-11-10,Delivered,,Y,61
+100432,200432,NORTHEAST,NORTHLINE LOGISTICS,12/24/2025,2025-12-27,26-Dec-2025,Delivered,,Y,110
+100433,200433,Mid-Atlantic,Coastal Express,24-Oct-2025,26-Oct-2025,2025-10-25,delivered,,Y,504
+100434,200434,Pacific Northwest,Northline Logistics,15-Oct-2025,18-Oct-2025,20-Oct-2025,Delivered - Late,,Y,619
+100435,200435,Mountain,Summit Carriers,10/24/2025,2025-10-29,10/29/2025,Delivered,,Y,148
+100436,200436,Mountain,Summit Carriers,10/15/2025,10/19/2025,18-Oct-2025,Delivered,,N,552
+100437,200437,Southwest,Coastal Express,2025-12-06,11-Dec-2025,10-Dec-2025,Delivered,,Y,269
+100438,200438,Mountain,Coastal Express,24-Dec-2025,12/28/2025,,Failed - Carrier Delay,CARRIER_DELAY,,586
+100439,200439,Northeast,Apex Freight,2025-12-22,2025-12-25,12/24/2025,Delivered,,Y,91
+100440,200440,Mountain,Coastal Express,2025-10-31,2025-11-03,05-Nov-2025,Delivered - Late,,Y,402
+100441,200441,Pacific Northwest,Northline Logistics,11-Oct-2025,15-Oct-2025,2025-10-15,DELIVERED,,Y,472
+100442,200442,Mid-Atlantic,Apex Freight,12/03/2025,2025-12-05,,Failed - Customer Unavailable,CUST_UNAVAIL,,437
+100443,200443,Northeast,Apex Freight,10/12/2025,17-Oct-2025,17-Oct-2025,Delivered,,Y,482
+100444,200444,Mid-Atlantic,Coastal Express,07-Oct-2025,10-Oct-2025,2025-10-09,Delivered,,Y,387
+100445,200445,Mountain,Apex Freight,2025-10-13,2025-10-16,,Failed - Wrong Address,ADDR_ERR,,378
+100446,200446,West,COASTAL EXPRESS,2025-12-29,31-Dec-2025,,FAILED - WRONG ADDRESS,ADDR_ERR,,183
+100447,200447,Mountain,Northline Logistics,2025-11-22,24-Nov-2025,2025-11-24,Delivered,,Y,417
+100448,200448,Southwest,Summit Carriers,25-Oct-2025,10/28/2025,,FAILED - CUSTOMER UNAVAILABLE,CUST_UNAVAIL,,439
+100449,200449,Northeast,Apex Freight,2025-11-27,2025-12-01,2025-12-01,Delivered,,Y,19
+100450,200450,northeast,Summit Carriers,2025-12-14,12/18/2025,18-Dec-2025,  Delivered  ,,Y,192
+100451,200451,MIDWEST,Apex Freight,2025-11-19,24-Nov-2025,2025-11-23,Delivered,,Y,269
+100452,200452,West,Summit Carriers,2025-11-13,16-Nov-2025,11/15/2025,Delivered,,Y,539
+100453,200453,,Coastal Express,12/10/2025,2025-12-13,12/12/2025,Delivered,,Y,150
+100454,200454,Midwest,Coastal Express,15-Oct-2025,18-Oct-2025,2025-10-17,Delivered,,Y,561
+100455,200455,WEST,Summit Carriers,02-Oct-2025,07-Oct-2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,405
+100456,200456,Midwest,Apex Freight,2025-12-25,27-Dec-2025,2025-12-27,Delivered,,Y,271
+100457,200457,Midwest,Apex Freight,2025-12-28,31-Dec-2025,30-Dec-2025,delivered,,Y,119
+100458,200458,Southwest,Summit Carriers,31-Oct-2025,11/05/2025,11/04/2025,Delivered,,Y,63
+100459,200459,PACIFIC NORTHWEST,summit carriers,11/23/2025,26-Nov-2025,2025-11-29,Delivered - Late,,Y,468
+100460,200460,Southwest,Coastal Express,15-Dec-2025,12/20/2025,20-Dec-2025,Delivered,,Y,196
+100461,200461,  Southeast  ,Northline Logistics,23-Oct-2025,10/28/2025,,  Failed - Carrier Delay  ,CARRIER_DELAY,,56
+100462,200462,Pacific Northwest,Coastal Express,2025-12-11,2025-12-14,,Failed - Carrier Delay,CARRIER_DELAY,,613
+100463,200463,West,Apex Freight,11/12/2025,11/16/2025,11/16/2025,Delivered,,Y,67
+100464,200464,West,Summit Carriers,12/13/2025,12/18/2025,17-Dec-2025,Delivered,,Y,203
+100465,200465,Southeast,Northline Logistics,2025-11-23,11/28/2025,30-Nov-2025,Delivered - Late,,Y,354
+100466,200466,Mid-Atlantic,Coastal Express,07-Nov-2025,2025-11-10,09-Nov-2025,Delivered,,Y,24
+100467,200467,southeast,COASTAL EXPRESS,11/27/2025,30-Nov-2025,11/30/2025,Delivered,,Y,343
+100468,200468,Pacific Northwest,Apex Freight,19-Nov-2025,2025-11-22,21-Nov-2025,Delivered,,Y,535
+100469,200469,Mountain,Summit Carriers,2025-10-06,10/09/2025,10/09/2025,Delivered,,Y,186
+100470,200470,Northeast,Apex Freight,2025-10-27,10/30/2025,10/30/2025,Delivered,,Y,460
+100471,200471,Southeast,northline logistics,04-Oct-2025,10/08/2025,2025-10-09,Delivered - Late,,Y,272
+100472,200472,Southeast,Northline Logistics,11/03/2025,2025-11-07,11/06/2025,Delivered,,Y,413
+100473,200473,southeast,Apex Freight,22-Dec-2025,2025-12-27,,Failed - Carrier Delay,CARRIER_DELAY,,614
+100474,200474,Northeast,Apex Freight,11/15/2025,11/20/2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,323
+100475,200475,Southeast,Coastal Express,2025-11-26,2025-11-30,11/29/2025,Delivered,,Y,240
+100476,200476,Midwest,Summit Carriers,09-Dec-2025,2025-12-12,12/11/2025,  Delivered  ,,Y,26
+100477,200477,Midwest,Apex Freight,2025-10-06,10/08/2025,08-Oct-2025,Delivered,,Y,367
+100478,200478,Southwest,Summit Carriers,2025-12-22,27-Dec-2025,12/26/2025,Delivered,,Y,200
+100479,200479,Northeast,Summit Carriers,12/22/2025,2025-12-27,,Failed - Carrier Delay,CARRIER_DELAY,,83
+100480,200480,West,Apex Freight,10/26/2025,10/31/2025,2025-10-31,Delivered,,Y,255
+100481,200481,Southeast,Coastal Express,12/19/2025,12/21/2025,2025-12-20,Delivered,,Y,328
+100482,200482,Midwest,Coastal Express,10-Nov-2025,11/14/2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,335
+100483,200483,Southwest,  Northline Logistics  ,12/22/2025,12/26/2025,12/25/2025,Delivered,,Y,488
+100484,200484,Mountain,Coastal Express,09-Nov-2025,13-Nov-2025,2025-11-13,delivered,,Y,158
+100485,200485,Southwest,Coastal Express,20-Dec-2025,12/22/2025,12/22/2025,Delivered,,Y,607
+100486,200486,Pacific Northwest,Northline Logistics,10/05/2025,10/10/2025,2025-10-09,  Delivered  ,,Y,167
+100487,200487,Mid-Atlantic,  Summit Carriers  ,2025-10-29,03-Nov-2025,11/02/2025,Delivered,,Y,107
+100488,200488,Pacific Northwest,Coastal Express,04-Dec-2025,06-Dec-2025,06-Dec-2025,Delivered,,Y,158
+100489,200489,Mountain,Northline Logistics,23-Oct-2025,10/28/2025,28-Oct-2025,Delivered,,Y,510
+100490,200490,Mid-Atlantic,Apex Freight,10/29/2025,2025-11-02,02-Nov-2025,Delivered,,Y,226
+100491,200491,Mid-Atlantic,Summit Carriers,30-Nov-2025,04-Dec-2025,2025-12-07,Delivered - Late,,Y,548
+100492,200492,West,Coastal Express,12/14/2025,12/19/2025,2025-12-18,Delivered,,Y,94
+100493,200493,West,Summit Carriers,2025-10-29,03-Nov-2025,02-Nov-2025,Delivered,,Y,508
+100494,200494,northeast,Northline Logistics,2025-11-26,2025-11-29,2025-11-28,  Delivered  ,,Y,206
+100495,200495,Midwest,COASTAL EXPRESS,17-Dec-2025,2025-12-19,18-Dec-2025,Delivered,,Y,508
+100496,200496,mountain,Summit Carriers,10/27/2025,11/01/2025,11/01/2025,Delivered,,Y,145
+100497,200497,Midwest,NORTHLINE LOGISTICS,12/20/2025,25-Dec-2025,,Failed - Wrong Address,ADDR_ERR,,601
+100498,200498,Midwest,apex freight,10/22/2025,10/25/2025,24-Oct-2025,Delivered,,Y,592
+100499,200499,Northeast,Coastal Express,2025-10-11,14-Oct-2025,10/13/2025,Delivered,,Y,435
+100500,200500,Midwest,Northline Logistics,2025-12-19,24-Dec-2025,12/23/2025,Delivered,,Y,619
+100501,200501,SOUTHEAST,Northline Logistics,11/18/2025,11/22/2025,,Failed - Carrier Delay,CARRIER_DELAY,,31
+100502,200502,Southwest,Summit Carriers,10/20/2025,2025-10-25,,Failed - Carrier Delay,CARRIER_DELAY,,502
+100503,200503,Northeast,Apex Freight,10/12/2025,16-Oct-2025,10/16/2025,Delivered,,Y,456
+100504,200504,Pacific Northwest,Coastal Express,06-Oct-2025,10/11/2025,2025-10-10,Delivered,,Y,405
+100505,200505,Mid-Atlantic,Apex Freight,24-Nov-2025,11/27/2025,2025-11-27,Delivered,,Y,571
+100506,200506,pacific northwest,Coastal Express,2025-10-25,10/27/2025,2025-10-27,Delivered,,Y,399
+100507,200507,Southwest,Coastal Express,22-Nov-2025,2025-11-25,,Failed - Wrong Address,ADDR_ERR,,451
+100508,200508,West,coastal express,2025-12-08,12/12/2025,11-Dec-2025,Delivered,,Y,438
+100509,200509,Mountain,Northline Logistics,11/17/2025,11/22/2025,21-Nov-2025,Delivered,,Y,422
+100510,200510,Midwest,Apex Freight,30-Oct-2025,11/03/2025,11/03/2025,DELIVERED,,Y,425
+100511,200511,Mid-Atlantic,Apex Freight,21-Oct-2025,10/25/2025,2025-10-26,Delivered - Late,,Y,497
+100512,200512,Pacific Northwest,Apex Freight,2025-10-09,10/12/2025,10/12/2025,DELIVERED,,Y,425
+100513,200513,West,Apex Freight,10/23/2025,27-Oct-2025,10/26/2025,Delivered,,Y,537
+100514,200514,Southwest,NORTHLINE LOGISTICS,12/26/2025,2025-12-28,2025-12-28,Delivered,,Y,297
+100515,200515,Pacific Northwest,Coastal Express,12/25/2025,12/29/2025,2025-12-29,Delivered,,Y,85
+100516,200516,Southeast,Coastal Express,12/11/2025,12/16/2025,12/15/2025,Delivered,,Y,214
+100517,200517,Mountain,Summit Carriers,2025-12-13,2025-12-15,15-Dec-2025,  Delivered  ,,Y,530
+100518,200518,West,  Coastal Express  ,2025-10-15,20-Oct-2025,2025-10-19,Delivered,,Y,401
+100519,200519,Mountain,Northline Logistics,2025-11-13,11/17/2025,17-Nov-2025,Delivered,,Y,279
+100520,200520,Southeast,Summit Carriers,21-Dec-2025,24-Dec-2025,23-Dec-2025,Delivered,,Y,376
+100521,200521,Northeast,Coastal Express,01-Nov-2025,04-Nov-2025,,Failed - Wrong Address,ADDR_ERR,,365
+100522,200522,Southeast,Northline Logistics,11/30/2025,03-Dec-2025,12/02/2025,Delivered,,Y,209
+100523,200523,Mountain,Northline Logistics,31-Oct-2025,2025-11-03,11/03/2025,Delivered,,Y,379
+100524,200524,Midwest,Apex Freight,16-Oct-2025,2025-10-18,2025-10-18,Delivered,,Y,569
+100525,200525,Northeast,Summit Carriers,2025-11-17,2025-11-22,11/21/2025,Delivered,,Y,538
+100526,200526,West,Summit Carriers,29-Oct-2025,03-Nov-2025,02-Nov-2025,Delivered,,Y,568
+100527,200527,Northeast,Coastal Express,20-Nov-2025,2025-11-23,11/22/2025,delivered,,Y,23
+100528,200528,Northeast,Northline Logistics,18-Nov-2025,2025-11-23,,Failed - Carrier Delay,CARRIER_DELAY,,385
+100529,200529,West,Northline Logistics,12/10/2025,13-Dec-2025,12/12/2025,  Delivered  ,,Y,525
+100530,200530,Pacific Northwest,Northline Logistics,2025-11-23,26-Nov-2025,11/25/2025,Delivered,,Y,149
+100531,200531,Southwest,Apex Freight,04-Nov-2025,11/07/2025,2025-11-07,delivered,,Y,168
+100532,200532,Mountain,Apex Freight,2025-10-23,2025-10-27,10/26/2025,Delivered,,Y,322
+100533,200533,West,Apex Freight,2025-11-20,11/22/2025,2025-11-21,DELIVERED,,Y,113
+100534,200534,mountain,Coastal Express,03-Nov-2025,11/06/2025,11/05/2025,Delivered,,Y,436
+100535,200535,southeast,coastal express,26-Dec-2025,12/31/2025,2025-12-31,Delivered,,Y,306
+100536,200536,Mid-Atlantic,Coastal Express,2025-12-26,31-Dec-2025,31-Dec-2025,delivered,,Y,308
+100537,200537,Mountain,NORTHLINE LOGISTICS,2025-10-22,10/25/2025,24-Oct-2025,Delivered,,Y,88
+100538,200538,Southeast,Northline Logistics,11/13/2025,16-Nov-2025,2025-11-15,Delivered,,Y,419
+100539,200539,West,Summit Carriers,11/16/2025,11/21/2025,2025-11-21,Delivered,,Y,38
+100540,200540,  Midwest  ,Northline Logistics,12/24/2025,27-Dec-2025,2025-12-27,DELIVERED,,Y,421
+100541,200541,Southeast,Apex Freight,10/09/2025,10/13/2025,10/17/2025,Delivered - Late,,Y,100
+100542,200542,,Coastal Express,12/19/2025,12/22/2025,,Failed - Wrong Address,ADDR_ERR,,414
+100543,200543,West,Northline Logistics,2025-11-01,2025-11-04,04-Nov-2025,Delivered,,N,380
+100544,200544,Mid-Atlantic,Summit Carriers,29-Nov-2025,2025-12-04,12/04/2025,Delivered,,Y,567
+100545,200545,midwest,Summit Carriers,20-Dec-2025,25-Dec-2025,2025-12-24,Delivered,,Y,508
+100546,200546,Southwest,Apex Freight,26-Nov-2025,2025-11-29,2025-11-28,Delivered,,N,550
+100547,200547,Midwest,  Coastal Express  ,11/06/2025,10-Nov-2025,11/09/2025,Delivered,,Y,503
+100548,200548,West,  Apex Freight  ,11/25/2025,28-Nov-2025,11/27/2025,Delivered,,Y,589
+100549,200549,Pacific Northwest,summit carriers,01-Nov-2025,2025-11-04,2025-11-03,Delivered,,Y,96
+100550,200550,Pacific Northwest,Northline Logistics,06-Dec-2025,11-Dec-2025,10-Dec-2025,Delivered,,Y,559
+100551,200551,West,Summit Carriers,25-Oct-2025,27-Oct-2025,2025-10-26,Delivered,,Y,293
+100552,200552,Mountain,Northline Logistics,2025-11-11,2025-11-13,,Failed - Carrier Delay,CARRIER_DELAY,,562
+100553,200553,NORTHEAST,Northline Logistics,2025-10-14,17-Oct-2025,17-Oct-2025,Delivered,,Y,169
+100554,200554,Northeast,Summit Carriers,28-Oct-2025,10/31/2025,2025-10-30,Delivered,,Y,489
+100555,200555,Northeast,Coastal Express,11-Oct-2025,2025-10-14,,Failed - Wrong Address,ADDR_ERR,,416
+100556,200556,Southeast,Summit Carriers,10/24/2025,10/27/2025,10/26/2025,  Delivered  ,,Y,139
+100557,200557,Southwest,Summit Carriers,26-Nov-2025,2025-11-29,2025-12-03,Delivered - Late,,Y,111
+100558,200558,Southwest,Summit Carriers,11/19/2025,11/22/2025,2025-11-22,Delivered,,Y,577
+100559,200559,Southeast,Coastal Express,2025-12-01,04-Dec-2025,2025-12-04,Delivered,,Y,256
+100560,200560,Pacific Northwest,Coastal Express,2025-10-02,2025-10-05,10/04/2025,Delivered,,Y,24
+100561,200561,Northeast,summit carriers,28-Dec-2025,01/02/2026,01/02/2026,Delivered,,Y,108
+100562,200562,Mid-Atlantic,Apex Freight,08-Oct-2025,11-Oct-2025,11-Oct-2025,Delivered,,Y,253
+100563,200563,Mid-Atlantic,Coastal Express,2025-11-26,11/29/2025,,Failed - Wrong Address,ADDR_ERR,,401
+100564,200564,Mid-Atlantic,Northline Logistics,2025-11-02,2025-11-04,2025-11-03,Delivered,,Y,516
+100565,200565,Southwest,Northline Logistics,09-Dec-2025,12-Dec-2025,12-Dec-2025,Delivered,,Y,173
+100566,200566,Mountain,Coastal Express,11/03/2025,11/08/2025,2025-11-12,Delivered - Late,,Y,34
+100567,200567,MID-ATLANTIC,Northline Logistics,11/11/2025,11/13/2025,11/12/2025,  Delivered  ,,Y,524
+100568,200568,Midwest,  Coastal Express  ,2025-11-11,2025-11-15,2025-11-15,Delivered,,Y,147
+100569,200569,Midwest,Apex Freight,10/26/2025,10/28/2025,10/27/2025,Delivered,,Y,553
+100570,200570,West,Apex Freight,16-Nov-2025,19-Nov-2025,2025-11-19,Delivered,,Y,96
+100571,200571,Mountain,Apex Freight,16-Nov-2025,21-Nov-2025,11/20/2025,Delivered,,Y,74
+100572,200572,WEST,APEX FREIGHT,10/10/2025,13-Oct-2025,,FAILED - CARRIER DELAY,CARRIER_DELAY,,236
+100573,200573,Southeast,Apex Freight,2025-10-30,11/04/2025,04-Nov-2025,Delivered,,Y,198
+100574,200574,  Pacific Northwest  ,APEX FREIGHT,21-Dec-2025,26-Dec-2025,2025-12-25,Delivered,,Y,185
+100575,200575,Midwest,Summit Carriers,12/04/2025,2025-12-07,06-Dec-2025,Delivered,,Y,337
+100576,200576,Mid-Atlantic,  Coastal Express  ,2025-11-22,2025-11-26,26-Nov-2025,  Delivered  ,,Y,234
+100577,200577,Pacific Northwest,Coastal Express,16-Nov-2025,2025-11-20,2025-11-20,Delivered,,Y,31
+100578,200578,Midwest,Coastal Express,01-Oct-2025,04-Oct-2025,03-Oct-2025,Delivered,,N,297
+100579,200579,Midwest,Apex Freight,05-Oct-2025,09-Oct-2025,2025-10-08,Delivered,,Y,270
+100580,200580,SOUTHWEST,COASTAL EXPRESS,2025-11-08,2025-11-10,11/10/2025,Delivered,,Y,347
+100581,200581,Mountain,Northline Logistics,12/02/2025,2025-12-07,10-Dec-2025,Delivered - Late,,N,605
+100582,200582,Pacific Northwest,Apex Freight,08-Oct-2025,10/11/2025,10/10/2025,Delivered,,Y,138
+100583,200583,Southwest,Apex Freight,21-Dec-2025,12/25/2025,,Failed - Carrier Delay,CARRIER_DELAY,,551
+100584,200584,Northeast,  Coastal Express  ,09-Dec-2025,2025-12-14,,Failed - Carrier Delay,CARRIER_DELAY,,529
+100585,200585,Southwest,Northline Logistics,07-Oct-2025,11-Oct-2025,11-Oct-2025,Delivered,,Y,311
+100586,200586,Pacific Northwest,Northline Logistics,17-Oct-2025,2025-10-20,,Failed - Carrier Delay,CARRIER_DELAY,,600
+100587,200587,NORTHEAST,Summit Carriers,11/03/2025,11/05/2025,11/05/2025,Delivered,,Y,507
+100588,200588,Southwest,Summit Carriers,11/20/2025,2025-11-25,11/25/2025,Delivered,,Y,287
+100589,200589,Pacific Northwest,Coastal Express,27-Dec-2025,01/01/2026,,Failed - Wrong Address,ADDR_ERR,,438
+100590,200590,Pacific Northwest,COASTAL EXPRESS,11/14/2025,11/17/2025,11/17/2025,Delivered,,Y,188
+100591,200591,,SUMMIT CARRIERS,12/19/2025,12/22/2025,12/22/2025,Delivered,,Y,397
+100592,200592,Midwest,Apex Freight,15-Oct-2025,2025-10-17,10/17/2025,DELIVERED,,Y,309
+100593,200593,Northeast,Coastal Express,28-Dec-2025,30-Dec-2025,12/29/2025,Delivered,,Y,565
+100594,200594,Southwest,NORTHLINE LOGISTICS,12/09/2025,2025-12-14,14-Dec-2025,Delivered,,Y,33
+100595,200595,Pacific Northwest,Apex Freight,11/02/2025,11/05/2025,,Failed - Carrier Delay,CARRIER_DELAY,,220
+100596,200596,West,apex freight,29-Nov-2025,12/01/2025,,Failed - Carrier Delay,CARRIER_DELAY,,292
+100597,200597,Mid-Atlantic,Apex Freight,2025-10-03,2025-10-06,2025-10-06,Delivered,,Y,535
+100598,200598,Southeast,Coastal Express,2025-12-02,12/07/2025,12/06/2025,Delivered,,Y,37
+100599,200599,Northeast,NORTHLINE LOGISTICS,12/07/2025,10-Dec-2025,12/10/2025,Delivered,,N,375
+100600,200600,Mid-Atlantic,Coastal Express,10/31/2025,11/05/2025,04-Nov-2025,Delivered,,Y,45
+100601,200601,West,Northline Logistics,10/20/2025,10/23/2025,10/23/2025,Delivered,,Y,548
+100602,200602,Southwest,Summit Carriers,31-Oct-2025,11/05/2025,2025-11-04,Delivered,,Y,149
+100603,200603,Southwest,Northline Logistics,12/14/2025,19-Dec-2025,12/19/2025,Delivered,,Y,551
+100604,200604,  Midwest  ,Summit Carriers,19-Oct-2025,10/24/2025,24-Oct-2025,Delivered,,Y,164
+100605,200605,Northeast,Coastal Express,11/22/2025,2025-11-26,25-Nov-2025,delivered,,Y,207
+100606,200606,Southeast,Northline Logistics,10/24/2025,10/26/2025,25-Oct-2025,Delivered,,Y,251
+100607,200607,Southwest,Northline Logistics,27-Dec-2025,29-Dec-2025,2025-12-28,Delivered,,Y,495
+100608,200608,  Mid-Atlantic  ,Northline Logistics,2025-11-19,11/23/2025,2025-11-23,Delivered,,N,30
+100609,200609,  West  ,Summit Carriers,10/29/2025,01-Nov-2025,2025-10-31,Delivered,,Y,516
+100610,200610,Mid-Atlantic,Summit Carriers,11/01/2025,11/05/2025,11/09/2025,delivered - late,,Y,418
+100611,200611,Northeast,Apex Freight,11/27/2025,12/01/2025,12/03/2025,Delivered - Late,,Y,420
+100612,200612,Northeast,Summit Carriers,06-Dec-2025,2025-12-08,07-Dec-2025,Delivered,,Y,307
+100613,200613,Mountain,NORTHLINE LOGISTICS,2025-11-24,11/27/2025,29-Nov-2025,Delivered - Late,,Y,477
+100614,200614,Southeast,Apex Freight,2025-10-24,29-Oct-2025,2025-10-29,delivered,,Y,346
+100615,200615,Mountain,Apex Freight,23-Oct-2025,27-Oct-2025,2025-10-27,Delivered,,Y,107
+100616,200616,West,Coastal Express,12/28/2025,12/31/2025,12/31/2025,Delivered,,Y,386
+100617,200617,Southeast,Summit Carriers,2025-12-05,10-Dec-2025,12/09/2025,Delivered,,Y,189
+100618,200618,Mid-Atlantic,NORTHLINE LOGISTICS,21-Oct-2025,2025-10-24,,Failed - Carrier Delay,CARRIER_DELAY,,67
+100619,200619,PACIFIC NORTHWEST,Coastal Express,11/09/2025,11/13/2025,11/13/2025,Delivered,,Y,18
+100620,200620,West,Apex Freight,11/28/2025,12/02/2025,2025-12-02,Delivered,,Y,520
+100621,200621,Southwest,Northline Logistics,2025-12-15,2025-12-19,19-Dec-2025,Delivered,,Y,575
+100622,200622,West,Northline Logistics,10/07/2025,10/10/2025,,Failed - Carrier Delay,CARRIER_DELAY,,372
+100623,200623,Northeast,Northline Logistics,05-Oct-2025,2025-10-10,2025-10-10,Delivered,,Y,441
+100624,200624,Midwest,Northline Logistics,2025-12-26,12/29/2025,29-Dec-2025,Delivered,,Y,607
+100625,200625,Mid-Atlantic,Apex Freight,12-Oct-2025,2025-10-15,15-Oct-2025,Delivered,,Y,578
+100626,200626,southeast,Coastal Express,30-Nov-2025,2025-12-03,,Failed - Carrier Delay,CARRIER_DELAY,,296
+100627,200627,Mid-Atlantic,Summit Carriers,2025-12-07,2025-12-10,2025-12-10,Delivered,,Y,556
+100628,200628,Southeast,Summit Carriers,12/28/2025,02-Jan-2026,01-Jan-2026,Delivered,,Y,339
+100629,200629,West,Coastal Express,17-Oct-2025,10/22/2025,10/21/2025,Delivered,,Y,199
+100630,200630,Southwest,Coastal Express,2025-10-25,2025-10-27,,Failed - Wrong Address,ADDR_ERR,,491
+100631,200631,Southeast,Northline Logistics,18-Dec-2025,2025-12-22,12/22/2025,Delivered,,N,221
+100632,200632,West,  Coastal Express  ,2025-10-09,12-Oct-2025,10/12/2025,Delivered,,Y,356
+100633,200633,Mid-Atlantic,Summit Carriers,12-Dec-2025,2025-12-17,17-Dec-2025,Delivered,,Y,361
+100634,200634,Mountain,Summit Carriers,2025-10-05,10/08/2025,07-Oct-2025,Delivered,,Y,438
+100635,200635,Northeast,COASTAL EXPRESS,12-Dec-2025,15-Dec-2025,18-Dec-2025,  Delivered - Late  ,,Y,377
+100636,200636,Southeast,Northline Logistics,05-Nov-2025,07-Nov-2025,2025-11-07,delivered,,Y,413
+100637,200637,  Midwest  ,Apex Freight,09-Nov-2025,11/12/2025,12-Nov-2025,  Delivered  ,,Y,258
+100638,200638,Mid-Atlantic,summit carriers,11/08/2025,2025-11-11,2025-11-10,Delivered,,Y,221
+100639,200639,Southeast,  Summit Carriers  ,04-Dec-2025,2025-12-06,06-Dec-2025,Delivered,,Y,510
+100640,200640,West,Coastal Express,10/19/2025,21-Oct-2025,10/21/2025,Delivered,,Y,52
+100641,200641,Mountain,Summit Carriers,06-Dec-2025,08-Dec-2025,,FAILED - WRONG ADDRESS,ADDR_ERR,,60
+100642,200642,Southeast,Coastal Express,11/29/2025,12/01/2025,,Failed - Carrier Delay,CARRIER_DELAY,,334
+100643,200643,Northeast,Coastal Express,12/21/2025,24-Dec-2025,12/23/2025,Delivered,,Y,466
+100644,200644,Southeast,Coastal Express,10/20/2025,10/23/2025,2025-10-24,Delivered - Late,,Y,373
+100645,200645,Mid-Atlantic,Coastal Express,10/19/2025,10/22/2025,21-Oct-2025,Delivered,,Y,361
+100646,200646,Mountain,Apex Freight,10/17/2025,19-Oct-2025,10/19/2025,Delivered,,Y,103
+100647,200647,Pacific Northwest,Summit Carriers,2025-10-23,2025-10-28,10/27/2025,Delivered,,Y,334
+100648,200648,mid-atlantic,Northline Logistics,12/25/2025,2025-12-30,,Failed - Carrier Delay,CARRIER_DELAY,,491
+100649,200649,Midwest,Apex Freight,12/29/2025,02-Jan-2026,,Failed - Carrier Delay,CARRIER_DELAY,,332
+100650,200650,Mountain,Summit Carriers,30-Oct-2025,11/02/2025,11/01/2025,Delivered,,Y,416
+100651,200651,Midwest,Coastal Express,11-Nov-2025,2025-11-15,2025-11-15,Delivered,,Y,487
+100652,200652,Midwest,Coastal Express,11/14/2025,11/19/2025,2025-11-18,Delivered,,Y,124
+100653,200653,Mid-Atlantic,Apex Freight,08-Nov-2025,11/13/2025,11/13/2025,Delivered,,Y,576
+100654,200654,Midwest,Summit Carriers,2025-11-19,21-Nov-2025,11/20/2025,Delivered,,Y,460
+100655,200655,Mid-Atlantic,Northline Logistics,2025-10-23,2025-10-25,24-Oct-2025,DELIVERED,,Y,489
+100656,200656,Mid-Atlantic,Apex Freight,11/26/2025,11/29/2025,2025-11-29,Delivered,,Y,403
+100657,200657,Mid-Atlantic,Summit Carriers,22-Dec-2025,24-Dec-2025,,Failed - Carrier Delay,CARRIER_DELAY,,157
+100658,200658,Northeast,Northline Logistics,24-Dec-2025,12/27/2025,2025-12-26,Delivered,,Y,339
+100659,200659,West,Coastal Express,2025-11-25,28-Nov-2025,2025-11-27,Delivered,,Y,316
+100660,200660,Northeast,Coastal Express,12/10/2025,12/12/2025,,failed - wrong address,ADDR_ERR,,588
+100661,200661,Mid-Atlantic,Apex Freight,06-Nov-2025,11/08/2025,11/07/2025,Delivered,,Y,406
+100662,200662,Pacific Northwest,Summit Carriers,2025-11-25,30-Nov-2025,11/30/2025,Delivered,,Y,408
+100663,200663,Mid-Atlantic,Summit Carriers,2025-10-20,23-Oct-2025,2025-10-23,Delivered,,N,31
+100664,200664,Midwest,Summit Carriers,2025-12-24,12/28/2025,12/28/2025,Delivered,,Y,440
+100665,200665,  Mountain  ,Summit Carriers,19-Dec-2025,22-Dec-2025,12/21/2025,Delivered,,Y,246
+100666,200666,Midwest,Summit Carriers,12/17/2025,12/19/2025,19-Dec-2025,delivered,,Y,290
+100667,200667,PACIFIC NORTHWEST,Coastal Express,2025-10-05,07-Oct-2025,10/07/2025,Delivered,,Y,96
+100668,200668,Midwest,Coastal Express,2025-11-29,04-Dec-2025,,  Failed - Wrong Address  ,ADDR_ERR,,105
+100669,200669,Southwest,Summit Carriers,12/20/2025,22-Dec-2025,21-Dec-2025,Delivered,,Y,366
+100670,200670,Northeast,Summit Carriers,2025-11-28,03-Dec-2025,2025-12-02,Delivered,,Y,316
+100671,200671,West,Northline Logistics,05-Oct-2025,10-Oct-2025,2025-10-09,  Delivered  ,,Y,499
+100672,200672,Midwest,Apex Freight,2025-12-24,27-Dec-2025,26-Dec-2025,Delivered,,Y,144
+100673,200673,Southeast,Coastal Express,02-Nov-2025,2025-11-05,11/04/2025,Delivered,,N,129
+100674,200674,Midwest,Northline Logistics,12/24/2025,2025-12-28,2025-12-28,Delivered,,Y,555
+100675,200675,Northeast,Coastal Express,11-Oct-2025,10/14/2025,10/13/2025,  Delivered  ,,Y,437
+100676,200676,Pacific Northwest,Northline Logistics,12/24/2025,2025-12-28,2025-12-27,Delivered,,Y,285
+100677,200677,Southeast,Apex Freight,10/22/2025,2025-10-26,10/26/2025,Delivered,,Y,414
+100678,200678,Mountain,coastal express,19-Oct-2025,2025-10-24,10/28/2025,Delivered - Late,,Y,338
+100679,200679,Northeast,  Apex Freight  ,08-Dec-2025,11-Dec-2025,12/10/2025,Delivered,,Y,288
+100680,200680,southeast,Coastal Express,2025-12-23,2025-12-28,28-Dec-2025,Delivered,,Y,617
+100681,200681,southwest,Coastal Express,26-Dec-2025,12/29/2025,30-Dec-2025,Delivered - Late,,Y,27
+100682,200682,  Pacific Northwest  ,Apex Freight,07-Dec-2025,09-Dec-2025,2025-12-08,Delivered,,Y,49
+100683,200683,Northeast,Apex Freight,08-Oct-2025,13-Oct-2025,10/13/2025,Delivered,,Y,137
+100684,200684,Southeast,northline logistics,11/18/2025,2025-11-23,23-Nov-2025,Delivered,,Y,274
+100685,200685,west,summit carriers,24-Dec-2025,12/26/2025,25-Dec-2025,delivered,,Y,346
+100686,200686,West,Northline Logistics,2025-10-10,10/13/2025,10/12/2025,Delivered,,Y,279
+100687,200687,West,Northline Logistics,26-Nov-2025,28-Nov-2025,11/27/2025,  Delivered  ,,Y,518
+100688,200688,Southeast,Northline Logistics,09-Dec-2025,13-Dec-2025,12/12/2025,Delivered,,Y,120
+100689,200689,,Apex Freight,10-Oct-2025,10/15/2025,10/15/2025,Delivered,,Y,167
+100690,200690,NORTHEAST,Apex Freight,25-Dec-2025,12/29/2025,2025-12-28,Delivered,,Y,542
+100691,200691,Mountain,Summit Carriers,25-Nov-2025,29-Nov-2025,29-Nov-2025,Delivered,,Y,18
+100692,200692,Pacific Northwest,Summit Carriers,10/16/2025,21-Oct-2025,2025-10-20,Delivered,,Y,425
+100693,200693,Northeast,Apex Freight,2025-11-16,2025-11-21,2025-11-20,Delivered,,Y,311
+100694,200694,Southwest,Northline Logistics,12/10/2025,12/12/2025,2025-12-11,Delivered,,Y,124
+100695,200695,Mid-Atlantic,Summit Carriers,2025-10-11,10/15/2025,15-Oct-2025,Delivered,,N,259
+100696,200696,Mountain,Summit Carriers,2025-10-09,10/14/2025,2025-10-13,Delivered,,Y,31
+100697,200697,Northeast,Coastal Express,2025-10-08,2025-10-11,12-Oct-2025,Delivered - Late,,Y,550
+100698,200698,Mountain,Northline Logistics,12/14/2025,17-Dec-2025,2025-12-19,Delivered - Late,,Y,34
+100699,200699,Mountain,Apex Freight,01-Nov-2025,11/04/2025,,Failed - Wrong Address,ADDR_ERR,,66
+100700,200700,West,apex freight,11/28/2025,2025-12-03,03-Dec-2025,Delivered,,Y,240
+100701,200701,Southeast,Northline Logistics,11/24/2025,11/27/2025,2025-11-26,Delivered,,Y,604
+100702,200702,  Midwest  ,Coastal Express,2025-10-28,2025-10-30,2025-10-30,Delivered,,Y,440
+100703,200703,Midwest,  Coastal Express  ,12/10/2025,2025-12-13,2025-12-13,Delivered,,Y,400
+100704,200704,Midwest,Apex Freight,02-Dec-2025,12/04/2025,,Failed - Wrong Address,ADDR_ERR,,198
+100705,200705,southeast,Coastal Express,11/23/2025,2025-11-27,2025-11-26,DELIVERED,,Y,436
+100706,200706,southwest,Northline Logistics,18-Dec-2025,12/20/2025,12/20/2025,Delivered,,Y,323
+100707,200707,Mid-Atlantic,summit carriers,01-Oct-2025,10/06/2025,2025-10-06,Delivered,,Y,567
+100708,200708,Southwest,Summit Carriers,2025-12-20,2025-12-23,2025-12-23,delivered,,Y,500
+100709,200709,Mountain,Northline Logistics,10/21/2025,23-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,387
+100710,200710,West,Northline Logistics,2025-11-25,2025-11-28,27-Nov-2025,Delivered,,Y,68
+100711,200711,Midwest,Northline Logistics,04-Oct-2025,2025-10-08,2025-10-10,Delivered - Late,,Y,608
+100712,200712,,Summit Carriers,10/26/2025,10/29/2025,29-Oct-2025,DELIVERED,,Y,437
+100713,200713,Southwest,Summit Carriers,2025-10-29,10/31/2025,30-Oct-2025,Delivered,,Y,480
+100714,200714,Midwest,Summit Carriers,2025-11-17,11/20/2025,19-Nov-2025,Delivered,,Y,222
+100715,200715,Mid-Atlantic,Northline Logistics,2025-10-05,10-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,154
+100716,200716,Southeast,Summit Carriers,11/28/2025,2025-12-02,2025-12-01,delivered,,Y,189
+100717,200717,  Southwest  ,Apex Freight,11/22/2025,2025-11-27,11/26/2025,Delivered,,Y,300
+100718,200718,Northeast,  Summit Carriers  ,2025-11-01,2025-11-04,2025-11-04,Delivered,,Y,20
+100719,200719,Pacific Northwest,Apex Freight,10/06/2025,2025-10-10,09-Oct-2025,Delivered,,Y,505
+100720,200720,southeast,summit carriers,12/03/2025,2025-12-06,,Failed - Carrier Delay,CARRIER_DELAY,,27
+100721,200721,Pacific Northwest,Northline Logistics,2025-10-17,20-Oct-2025,20-Oct-2025,Delivered,,N,327
+100722,200722,Midwest,Summit Carriers,12/13/2025,12/18/2025,,Failed - Wrong Address,ADDR_ERR,,480
+100723,200723,MOUNTAIN,Northline Logistics,2025-11-21,11/24/2025,23-Nov-2025,Delivered,,Y,16
+100724,200724,Southeast,Summit Carriers,12/28/2025,31-Dec-2025,30-Dec-2025,Delivered,,Y,570
+100725,200725,  Southwest  ,Apex Freight,12/19/2025,2025-12-22,12/25/2025,Delivered - Late,,Y,128
+100726,200726,Pacific Northwest,Coastal Express,11/29/2025,12/04/2025,,Failed - Wrong Address,ADDR_ERR,,390
+100727,200727,Midwest,Apex Freight,11-Dec-2025,2025-12-14,12/14/2025,Delivered,,Y,609
+100728,200728,Southwest,Northline Logistics,11-Nov-2025,2025-11-14,2025-11-13,Delivered,,Y,79
+100729,200729,MID-ATLANTIC,Coastal Express,2025-11-27,2025-12-01,11/30/2025,Delivered,,Y,560
+100730,200730,West,Summit Carriers,19-Dec-2025,2025-12-22,22-Dec-2025,  Delivered  ,,Y,483
+100731,200731,Southeast,Apex Freight,2025-11-20,23-Nov-2025,11/23/2025,Delivered,,Y,129
+100732,200732,Midwest,Summit Carriers,10/20/2025,23-Oct-2025,2025-10-22,Delivered,,Y,569
+100733,200733,Midwest,Summit Carriers,14-Nov-2025,11/18/2025,2025-11-17,Delivered,,Y,37
+100734,200734,Southwest,Coastal Express,2025-11-22,2025-11-27,11/26/2025,Delivered,,Y,557
+100735,200735,Mountain,Summit Carriers,08-Nov-2025,2025-11-13,11/13/2025,Delivered,,Y,247
+100736,200736,Mountain,Coastal Express,06-Nov-2025,08-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,306
+100737,200737,Mountain,Northline Logistics,2025-12-19,22-Dec-2025,22-Dec-2025,Delivered,,Y,172
+100738,200738,Midwest,Northline Logistics,15-Oct-2025,2025-10-17,16-Oct-2025,Delivered,,Y,203
+100739,200739,Southwest,Apex Freight,2025-12-25,2025-12-28,27-Dec-2025,Delivered,,Y,181
+100740,200740,West,Apex Freight,04-Oct-2025,10/08/2025,2025-10-07,Delivered,,Y,174
+100741,200741,Northeast,Coastal Express,12/22/2025,25-Dec-2025,2025-12-25,Delivered,,Y,467
+100742,200742,MID-ATLANTIC,Apex Freight,12/01/2025,2025-12-03,12/02/2025,Delivered,,N,240
+100743,200743,MOUNTAIN,Coastal Express,10/12/2025,15-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,214
+100744,200744,Southwest,Coastal Express,2025-10-26,2025-10-28,,FAILED - WRONG ADDRESS,ADDR_ERR,,471
+100745,200745,Southeast,Summit Carriers,2025-10-25,2025-10-29,29-Oct-2025,Delivered,,Y,384
+100746,200746,Pacific Northwest,Northline Logistics,11/24/2025,27-Nov-2025,11/30/2025,Delivered - Late,,Y,471
+100747,200747,Southeast,Northline Logistics,2025-11-26,11/30/2025,11/29/2025,Delivered,,Y,439
+100748,200748,Midwest,apex freight,19-Oct-2025,22-Oct-2025,2025-10-21,Delivered,,Y,619
+100749,200749,Pacific Northwest,apex freight,01-Oct-2025,05-Oct-2025,05-Oct-2025,Delivered,,Y,596
+100750,200750,Midwest,Northline Logistics,24-Oct-2025,10/28/2025,10/27/2025,Delivered,,Y,326
+100751,200751,Mountain,Summit Carriers,29-Oct-2025,31-Oct-2025,2025-10-30,delivered,,Y,498
+100752,200752,SOUTHEAST,Coastal Express,23-Nov-2025,11/26/2025,26-Nov-2025,Delivered,,N,298
+100753,200753,Mountain,Apex Freight,2025-12-16,19-Dec-2025,18-Dec-2025,Delivered,,Y,502
+100754,200754,southeast,coastal express,2025-12-05,10-Dec-2025,,Failed - Wrong Address,ADDR_ERR,,280
+100755,200755,Midwest,Apex Freight,19-Oct-2025,10/22/2025,21-Oct-2025,  Delivered  ,,Y,294
+100756,200756,Mid-Atlantic,Summit Carriers,12/21/2025,12/24/2025,,Failed - Wrong Address,ADDR_ERR,,313
+100757,200757,,Northline Logistics,2025-12-20,12/23/2025,2025-12-23,DELIVERED,,Y,338
+100758,200758,west,COASTAL EXPRESS,12/27/2025,2025-12-30,,Failed - Wrong Address,ADDR_ERR,,608
+100759,200759,Mid-Atlantic,Northline Logistics,02-Oct-2025,2025-10-05,04-Oct-2025,Delivered,,Y,181
+100760,200760,SOUTHEAST,Northline Logistics,20-Oct-2025,10/25/2025,10/25/2025,Delivered,,Y,93
+100761,200761,southeast,northline logistics,03-Oct-2025,07-Oct-2025,2025-10-07,Delivered,,Y,550
+100762,200762,Mid-Atlantic,Northline Logistics,11/08/2025,2025-11-10,12-Nov-2025,Delivered - Late,,Y,160
+100763,200763,Southwest,Coastal Express,17-Oct-2025,10/20/2025,,Failed - Wrong Address,ADDR_ERR,,95
+100764,200764,Pacific Northwest,apex freight,10/10/2025,10/12/2025,2025-10-12,Delivered,,Y,48
+100765,200765,Northeast,Summit Carriers,10/16/2025,2025-10-19,,Failed - Wrong Address,ADDR_ERR,,323
+100766,200766,Northeast,Apex Freight,2025-10-16,2025-10-21,2025-10-21,  Delivered  ,,Y,44
+100767,200767,Southeast,Northline Logistics,05-Nov-2025,10-Nov-2025,2025-11-10,Delivered,,Y,84
+100768,200768,southeast,Apex Freight,07-Dec-2025,12/10/2025,10-Dec-2025,Delivered,,Y,565
+100769,200769,Northeast,Apex Freight,2025-10-28,2025-11-02,2025-11-02,Delivered,,Y,124
+100770,200770,Midwest,Coastal Express,11/18/2025,2025-11-22,2025-11-22,Delivered,,Y,336
+100771,200771,  Southeast  ,Summit Carriers,15-Oct-2025,2025-10-20,2025-10-19,Delivered,,Y,56
+100772,200772,Southeast,Coastal Express,03-Dec-2025,05-Dec-2025,12/04/2025,Delivered,,Y,469
+100773,200773,Southwest,Summit Carriers,2025-11-07,11-Nov-2025,11/10/2025,Delivered,,Y,391
+100774,200774,Midwest,Apex Freight,26-Dec-2025,2025-12-30,30-Dec-2025,Delivered,,Y,419
+100775,200775,pacific northwest,APEX FREIGHT,10/22/2025,10/24/2025,24-Oct-2025,Delivered,,Y,428
+100776,200776,Southeast,Northline Logistics,24-Nov-2025,11/28/2025,27-Nov-2025,Delivered,,Y,424
+100777,200777,Mid-Atlantic,Summit Carriers,25-Dec-2025,12/30/2025,2025-12-29,Delivered,,Y,480
+100778,200778,Southeast,Apex Freight,2025-11-02,06-Nov-2025,06-Nov-2025,Delivered,,N,69
+100779,200779,Southeast,Summit Carriers,26-Dec-2025,12/28/2025,12/27/2025,Delivered,,Y,113
+100780,200780,SOUTHEAST,Summit Carriers,2025-11-29,2025-12-02,2025-12-01,Delivered,,Y,568
+100781,200781,Northeast,Apex Freight,11/25/2025,2025-11-27,2025-11-26,Delivered,,Y,51
+100782,200782,NORTHEAST,Northline Logistics,2025-12-11,12/14/2025,13-Dec-2025,Delivered,,Y,413
+100783,200783,Mountain,Apex Freight,2025-12-12,2025-12-16,2025-12-15,Delivered,,Y,175
+100784,200784,Northeast,Summit Carriers,2025-11-03,2025-11-07,2025-11-06,Delivered,,Y,306
+100785,200785,Mid-Atlantic,  Apex Freight  ,04-Oct-2025,10/09/2025,,  Failed - Wrong Address  ,ADDR_ERR,,390
+100786,200786,Mid-Atlantic,Apex Freight,2025-12-20,2025-12-23,12/22/2025,Delivered,,Y,72
+100787,200787,Southwest,northline logistics,2025-10-31,2025-11-03,11/03/2025,Delivered,,Y,132
+100788,200788,Mid-Atlantic,Northline Logistics,2025-10-03,08-Oct-2025,2025-10-07,Delivered,,Y,446
+100789,200789,West,Apex Freight,29-Dec-2025,2026-01-02,01-Jan-2026,Delivered,,Y,345
+100790,200790,Southeast,Summit Carriers,13-Oct-2025,10/16/2025,10/15/2025,delivered,,Y,321
+100791,200791,Mid-Atlantic,Summit Carriers,10/26/2025,30-Oct-2025,2025-10-30,Delivered,,Y,563
+100792,200792,Southwest,Coastal Express,2025-11-03,05-Nov-2025,05-Nov-2025,  Delivered  ,,Y,109
+100793,200793,Southeast,Coastal Express,04-Nov-2025,2025-11-06,11/05/2025,Delivered,,Y,93
+100794,200794,West,Coastal Express,11/25/2025,11/30/2025,29-Nov-2025,Delivered,,Y,479
+100795,200795,Midwest,Apex Freight,2025-12-20,2025-12-25,2025-12-25,Delivered,,Y,493
+100796,200796,West,Summit Carriers,2025-12-12,2025-12-14,14-Dec-2025,Delivered,,Y,322
+100797,200797,Pacific Northwest,Summit Carriers,2025-11-10,11/12/2025,11-Nov-2025,Delivered,,Y,179
+100798,200798,West,Northline Logistics,11/21/2025,24-Nov-2025,,Failed - Carrier Delay,CARRIER_DELAY,,211
+100799,200799,  Northeast  ,Northline Logistics,09-Nov-2025,11/13/2025,12-Nov-2025,Delivered,,Y,52
+100800,200800,Southwest,Northline Logistics,11/04/2025,2025-11-07,,Failed - Wrong Address,ADDR_ERR,,299
+100801,200801,midwest,Apex Freight,12/02/2025,12/04/2025,,Failed - Carrier Delay,CARRIER_DELAY,,100
+100802,200802,Mid-Atlantic,COASTAL EXPRESS,09-Oct-2025,13-Oct-2025,10/13/2025,Delivered,,Y,158
+100803,200803,Southwest,Apex Freight,12/13/2025,12/18/2025,2025-12-17,Delivered,,Y,107
+100804,200804,Southwest,Apex Freight,11/10/2025,2025-11-13,2025-11-13,Delivered,,Y,238
+100805,200805,  Midwest  ,Apex Freight,10/23/2025,26-Oct-2025,2025-10-25,Delivered,,Y,72
+100806,200806,MOUNTAIN,Coastal Express,29-Dec-2025,12/31/2025,12/31/2025,Delivered,,Y,163
+100807,200807,Mid-Atlantic,Summit Carriers,11/17/2025,20-Nov-2025,,FAILED - WRONG ADDRESS,ADDR_ERR,,50
+100808,200808,Northeast,Northline Logistics,11/02/2025,2025-11-07,2025-11-06,DELIVERED,,Y,139
+100809,200809,Southwest,Summit Carriers,19-Nov-2025,11/21/2025,11/20/2025,Delivered,,Y,256
+100810,200810,West,Northline Logistics,2025-10-21,2025-10-25,2025-10-24,Delivered,,Y,295
+100811,200811,Southeast,Summit Carriers,30-Nov-2025,2025-12-04,12/03/2025,  Delivered  ,,Y,117
+100812,200812,Midwest,Coastal Express,2025-12-04,2025-12-06,12/05/2025,Delivered,,Y,43
+100813,200813,Northeast,Northline Logistics,12/20/2025,12/24/2025,2025-12-23,Delivered,,Y,327
+100814,200814,Mid-Atlantic,apex freight,2025-10-15,10/18/2025,18-Oct-2025,Delivered,,Y,435
+100815,200815,,Summit Carriers,01-Dec-2025,12/04/2025,12/03/2025,Delivered,,Y,218
+100816,200816,Southeast,Summit Carriers,17-Nov-2025,11/20/2025,11/20/2025,Delivered,,N,38
+100817,200817,Southwest,  Apex Freight  ,29-Nov-2025,02-Dec-2025,2025-12-02,Delivered,,Y,454
+100818,200818,West,  Northline Logistics  ,10/12/2025,2025-10-15,,Failed - Carrier Delay,CARRIER_DELAY,,595
+100819,200819,southeast,Apex Freight,2025-12-07,2025-12-11,2025-12-10,Delivered,,Y,223
+100820,200820,Southwest,Coastal Express,2025-11-06,2025-11-10,11/10/2025,Delivered,,Y,304
+100821,200821,Southwest,Summit Carriers,24-Oct-2025,28-Oct-2025,2025-10-31,Delivered - Late,,Y,476
+100822,200822,Southwest,COASTAL EXPRESS,14-Dec-2025,12/18/2025,,Failed - Wrong Address,ADDR_ERR,,495
+100823,200823,Midwest,Coastal Express,28-Dec-2025,01/01/2026,2025-12-31,Delivered,,Y,277
+100824,200824,Southeast,Apex Freight,11-Dec-2025,12/13/2025,,Failed - Carrier Delay,CARRIER_DELAY,,255
+100825,200825,Mountain,Coastal Express,17-Dec-2025,12/22/2025,22-Dec-2025,  Delivered  ,,Y,405
+100826,200826,West,Summit Carriers,12/25/2025,2025-12-28,12/28/2025,DELIVERED,,Y,281
+100827,200827,Midwest,Summit Carriers,2025-11-13,2025-11-17,11/16/2025,Delivered,,Y,134
+100828,200828,Mid-Atlantic,Apex Freight,10/17/2025,10/21/2025,2025-10-20,DELIVERED,,Y,304
+100829,200829,west,Coastal Express,06-Dec-2025,2025-12-09,12/08/2025,Delivered,,Y,169
+100830,200830,Mountain,Apex Freight,10/25/2025,28-Oct-2025,,  Failed - Carrier Delay  ,CARRIER_DELAY,,202
+100831,200831,Northeast,Summit Carriers,03-Nov-2025,2025-11-06,2025-11-05,Delivered,,Y,380
+100832,200832,Mountain,Summit Carriers,12/03/2025,2025-12-05,2025-12-05,Delivered,,Y,223
+100833,200833,West,Northline Logistics,22-Oct-2025,27-Oct-2025,27-Oct-2025,Delivered,,Y,19
+100834,200834,  Midwest  ,Summit Carriers,2025-10-10,10/13/2025,12-Oct-2025,Delivered,,N,139
+100835,200835,PACIFIC NORTHWEST,Coastal Express,15-Dec-2025,17-Dec-2025,17-Dec-2025,Delivered,,Y,506
+100836,200836,Mountain,Coastal Express,16-Dec-2025,2025-12-18,12/22/2025,Delivered - Late,,Y,597
+100837,200837,Midwest,Northline Logistics,07-Oct-2025,10/10/2025,10/11/2025,Delivered - Late,,Y,405
+100838,200838,  Southeast  ,Summit Carriers,2025-11-02,11/05/2025,04-Nov-2025,Delivered,,Y,228
+100839,200839,Midwest,Summit Carriers,11/21/2025,11/24/2025,2025-11-24,Delivered,,Y,517
+100840,200840,Pacific Northwest,coastal express,27-Dec-2025,2026-01-01,,Failed - Carrier Delay,CARRIER_DELAY,,113
+100841,200841,Mid-Atlantic,Northline Logistics,02-Dec-2025,2025-12-06,12/05/2025,Delivered,,Y,447
+100842,200842,Mid-Atlantic,  Northline Logistics  ,25-Nov-2025,2025-11-29,,Failed - Carrier Delay,CARRIER_DELAY,,540
+100843,200843,Mid-Atlantic,Summit Carriers,26-Dec-2025,12/29/2025,28-Dec-2025,  Delivered  ,,Y,552
+100844,200844,  Southeast  ,  Coastal Express  ,29-Nov-2025,12/03/2025,,Failed - Wrong Address,ADDR_ERR,,504
+100845,200845,West,Northline Logistics,10/17/2025,2025-10-20,10/19/2025,Delivered,,Y,579
+100846,200846,Southeast,APEX FREIGHT,05-Dec-2025,2025-12-07,2025-12-06,Delivered,,Y,597
+100847,200847,West,Coastal Express,2025-11-02,2025-11-07,,Failed - Wrong Address,ADDR_ERR,,530
+100848,200848,Northeast,Apex Freight,12/24/2025,2025-12-28,27-Dec-2025,Delivered,,Y,441
+100849,200849,  West  ,Coastal Express,15-Dec-2025,19-Dec-2025,12/18/2025,Delivered,,Y,206
+100850,200850,Southwest,northline logistics,11-Oct-2025,16-Oct-2025,2025-10-15,Delivered,,Y,20
+100851,200851,  Pacific Northwest  ,Apex Freight,10/02/2025,10/05/2025,10/04/2025,Delivered,,Y,513
+100852,200852,West,Coastal Express,12/28/2025,01-Jan-2026,01/01/2026,Delivered,,N,129
+100853,200853,Northeast,Northline Logistics,10/04/2025,2025-10-07,2025-10-07,Delivered,,Y,566
+100854,200854,Southwest,apex freight,2025-11-08,2025-11-12,2025-11-12,Delivered,,Y,171
+100855,200855,Mountain,Summit Carriers,11/30/2025,02-Dec-2025,12/02/2025,Delivered,,Y,416
+100856,200856,Northeast,Coastal Express,02-Oct-2025,04-Oct-2025,03-Oct-2025,Delivered,,Y,607
+100857,200857,  West  ,Apex Freight,2025-12-02,2025-12-06,05-Dec-2025,delivered,,Y,77
+100858,200858,Northeast,Summit Carriers,12/13/2025,12/16/2025,2025-12-15,Delivered,,Y,134
+100859,200859,Mountain,  Coastal Express  ,2025-11-27,01-Dec-2025,,Failed - Wrong Address,ADDR_ERR,,309
+100860,200860,Southwest,SUMMIT CARRIERS,2025-11-14,18-Nov-2025,2025-11-17,Delivered,,Y,494
+100861,200861,Midwest,Coastal Express,2025-11-19,11/23/2025,2025-11-22,Delivered,,Y,180
+100862,200862,Southwest,  Coastal Express  ,12/28/2025,12/30/2025,12/30/2025,Delivered,,Y,518
+100863,200863,SOUTHEAST,summit carriers,2025-12-03,06-Dec-2025,2025-12-06,Delivered,,Y,282
+100864,200864,Mid-Atlantic,Northline Logistics,10/23/2025,28-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,80
+100865,200865,Mid-Atlantic,Summit Carriers,2025-10-15,20-Oct-2025,2025-10-19,Delivered,,Y,363
+100866,200866,Mid-Atlantic,Apex Freight,11-Dec-2025,14-Dec-2025,14-Dec-2025,Delivered,,Y,463
+100867,200867,Mountain,Apex Freight,10/14/2025,10/19/2025,2025-10-19,Delivered,,Y,57
+100868,200868,Southeast,  Northline Logistics  ,20-Dec-2025,2025-12-22,12/22/2025,Delivered,,Y,467
+100869,200869,Mountain,Apex Freight,10/20/2025,23-Oct-2025,23-Oct-2025,Delivered,,Y,440
+100870,200870,Northeast,Northline Logistics,2025-11-30,03-Dec-2025,2025-12-02,Delivered,,Y,439
+100871,200871,Mid-Atlantic,Northline Logistics,2025-10-20,25-Oct-2025,24-Oct-2025,Delivered,,Y,434
+100872,200872,Mountain,Coastal Express,2025-10-04,08-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,25
+100873,200873,southeast,Apex Freight,2025-11-13,16-Nov-2025,2025-11-15,Delivered,,Y,52
+100874,200874,Midwest,Apex Freight,2025-12-20,2025-12-25,24-Dec-2025,Delivered,,Y,336
+100875,200875,Mid-Atlantic,Apex Freight,11/05/2025,11/10/2025,11/09/2025,Delivered,,Y,225
+100876,200876,Mountain,Coastal Express,12/23/2025,12/27/2025,27-Dec-2025,Delivered,,N,357
+100877,200877,Pacific Northwest,Northline Logistics,06-Dec-2025,2025-12-11,12/14/2025,delivered - late,,Y,178
+100878,200878,Northeast,Apex Freight,09-Dec-2025,12/14/2025,2025-12-13,delivered,,Y,532
+100879,200879,southeast,apex freight,17-Nov-2025,2025-11-20,11/20/2025,Delivered,,Y,142
+100880,200880,mountain,Coastal Express,2025-12-13,2025-12-15,2025-12-15,Delivered,,Y,306
+100881,200881,Midwest,Summit Carriers,12/06/2025,12/09/2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,543
+100882,200882,Southwest,Coastal Express,2025-11-28,30-Nov-2025,,Failed - Wrong Address,ADDR_ERR,,450
+100883,200883,Pacific Northwest,Apex Freight,12-Oct-2025,2025-10-14,14-Oct-2025,Delivered,,Y,393
+100884,200884,Pacific Northwest,Summit Carriers,03-Nov-2025,2025-11-08,11/07/2025,  Delivered  ,,Y,516
+100885,200885,Pacific Northwest,Northline Logistics,10/19/2025,24-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,483
+100886,200886,midwest,apex freight,2025-12-28,31-Dec-2025,2026-01-02,Delivered - Late,,Y,393
+100887,200887,southeast,Summit Carriers,15-Oct-2025,10/17/2025,2025-10-17,Delivered,,Y,327
+100888,200888,Mid-Atlantic,Coastal Express,2025-11-07,2025-11-11,,Failed - Wrong Address,ADDR_ERR,,161
+100889,200889,Midwest,Summit Carriers,10/07/2025,10/10/2025,10/09/2025,Delivered,,N,575
+100890,200890,Mid-Atlantic,Apex Freight,2025-10-06,10-Oct-2025,2025-10-09,Delivered,,Y,401
+100891,200891,Mountain,Northline Logistics,10/18/2025,2025-10-23,22-Oct-2025,Delivered,,Y,348
+100892,200892,Southeast,Summit Carriers,19-Nov-2025,22-Nov-2025,22-Nov-2025,Delivered,,Y,468
+100893,200893,West,Apex Freight,2025-10-22,24-Oct-2025,2025-10-23,Delivered,,Y,141
+100894,200894,Southeast,Northline Logistics,2025-12-19,12/24/2025,26-Dec-2025,Delivered - Late,,Y,529
+100895,200895,Northeast,Apex Freight,2025-12-24,12/29/2025,12/31/2025,DELIVERED - LATE,,Y,608
+100896,200896,Mountain,Apex Freight,2025-12-08,12/13/2025,2025-12-12,Delivered,,Y,38
+100897,200897,Mid-Atlantic,Summit Carriers,10/24/2025,28-Oct-2025,,Failed - Wrong Address,ADDR_ERR,,555
+100898,200898,mid-atlantic,  Summit Carriers  ,11/02/2025,11/04/2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,116
+100899,200899,midwest,Coastal Express,2025-10-19,2025-10-22,2025-10-21,Delivered,,Y,188
+100900,200900,  Northeast  ,Coastal Express,24-Oct-2025,26-Oct-2025,10/26/2025,Delivered,,Y,437
+100901,200901,Mid-Atlantic,Coastal Express,11/18/2025,20-Nov-2025,,FAILED - WRONG ADDRESS,ADDR_ERR,,260
+100902,200902,Southwest,Summit Carriers,2025-12-05,12/10/2025,12/10/2025,  Delivered  ,,Y,581
+100903,200903,Pacific Northwest,APEX FREIGHT,2025-12-01,03-Dec-2025,03-Dec-2025,Delivered,,Y,615
+100904,200904,southeast,Northline Logistics,12/11/2025,2025-12-14,2025-12-14,Delivered,,Y,527
+100905,200905,Southwest,Northline Logistics,11/17/2025,11/22/2025,21-Nov-2025,Delivered,,Y,583
+100906,200906,MOUNTAIN,Apex Freight,2025-10-01,2025-10-05,2025-10-05,Delivered,,N,508
+100907,200907,West,Coastal Express,2025-12-27,12/31/2025,31-Dec-2025,Delivered,,Y,537
+100908,200908,West,Apex Freight,10/21/2025,10/26/2025,25-Oct-2025,Delivered,,Y,158
+100909,200909,West,Summit Carriers,10/27/2025,01-Nov-2025,31-Oct-2025,Delivered,,Y,478
+100910,200910,West,Northline Logistics,24-Dec-2025,27-Dec-2025,2025-12-26,Delivered,,N,151
+100911,200911,Northeast,Summit Carriers,01-Oct-2025,10/03/2025,2025-10-02,Delivered,,Y,566
+100912,200912,Southeast,Apex Freight,12/08/2025,2025-12-10,2025-12-09,Delivered,,Y,376
+100913,200913,Pacific Northwest,Coastal Express,2025-11-19,2025-11-22,2025-11-22,Delivered,,Y,394
+100914,200914,Southwest,Summit Carriers,10/02/2025,10/05/2025,2025-10-04,Delivered,,Y,325
+100915,200915,Southwest,Northline Logistics,2025-12-03,2025-12-06,,Failed - Wrong Address,ADDR_ERR,,519
+100916,200916,Southwest,Apex Freight,10/26/2025,2025-10-30,,Failed - Customer Unavailable,CUST_UNAVAIL,,299
+100917,200917,Mountain,Northline Logistics,12/10/2025,13-Dec-2025,2025-12-13,Delivered,,Y,146
+100918,200918,Southeast,Northline Logistics,03-Nov-2025,11/08/2025,2025-11-07,  Delivered  ,,Y,38
+100919,200919,West,SUMMIT CARRIERS,2025-10-01,05-Oct-2025,2025-10-05,Delivered,,Y,345
+100920,200920,Pacific Northwest,Summit Carriers,11/05/2025,2025-11-07,11/06/2025,Delivered,,Y,59
+100921,200921,Southwest,Apex Freight,2025-11-05,09-Nov-2025,08-Nov-2025,Delivered,,Y,98
+100922,200922,northeast,Northline Logistics,2025-12-28,2026-01-01,01/01/2026,  Delivered  ,,Y,333
+100923,200923,southeast,Apex Freight,2025-10-04,2025-10-08,2025-10-11,delivered - late,,Y,268
+100924,200924,Southeast,Summit Carriers,2025-10-31,2025-11-03,11/03/2025,delivered,,Y,464
+100925,200925,Southeast,Summit Carriers,2025-12-14,2025-12-16,,  Failed - Carrier Delay  ,CARRIER_DELAY,,77
+100926,200926,Northeast,Summit Carriers,2025-11-10,2025-11-12,11/11/2025,Delivered,,Y,457
+100927,200927,Southeast,Apex Freight,12/26/2025,28-Dec-2025,27-Dec-2025,Delivered,,Y,435
+100928,200928,Southwest,Apex Freight,28-Nov-2025,2025-12-02,2025-12-02,Delivered,,Y,41
+100929,200929,Mountain,Coastal Express,2025-12-15,18-Dec-2025,,Failed - Carrier Delay,CARRIER_DELAY,,27
+100930,200930,Southeast,NORTHLINE LOGISTICS,12/13/2025,2025-12-16,12/15/2025,Delivered,,Y,470
+100931,200931,  Midwest  ,Northline Logistics,2025-10-18,10/20/2025,,failed - carrier delay,CARRIER_DELAY,,334
+100932,200932,Pacific Northwest,Coastal Express,09-Nov-2025,11/14/2025,14-Nov-2025,Delivered,,Y,366
+100933,200933,West,Coastal Express,2025-10-02,2025-10-07,07-Oct-2025,delivered,,Y,587
+100934,200934,Northeast,Summit Carriers,11/14/2025,2025-11-17,2025-11-17,Delivered,,Y,364
+100935,200935,Southwest,Summit Carriers,12/28/2025,2026-01-01,12/31/2025,Delivered,,Y,443
+100936,200936,Mid-Atlantic,Northline Logistics,2025-10-14,10/18/2025,17-Oct-2025,Delivered,,Y,18
+100937,200937,Southwest,Northline Logistics,29-Nov-2025,04-Dec-2025,03-Dec-2025,Delivered,,Y,399
+100938,200938,Southwest,SUMMIT CARRIERS,2025-10-24,26-Oct-2025,26-Oct-2025,DELIVERED,,Y,160
+100939,200939,West,Summit Carriers,10/25/2025,10/30/2025,2025-10-30,Delivered,,Y,305
+100940,200940,Midwest,Northline Logistics,2025-11-03,06-Nov-2025,11/06/2025,delivered,,Y,195
+100941,200941,West,Apex Freight,03-Oct-2025,2025-10-06,2025-10-06,Delivered,,Y,230
+100942,200942,West,Summit Carriers,10/31/2025,2025-11-03,11/02/2025,Delivered,,Y,81
+100943,200943,Southeast,Northline Logistics,10/17/2025,2025-10-20,,Failed - Customer Unavailable,CUST_UNAVAIL,,402
+100944,200944,Mid-Atlantic,Coastal Express,12/16/2025,20-Dec-2025,2025-12-20,Delivered,,Y,616
+100945,200945,Southwest,Coastal Express,2025-10-20,23-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,301
+100946,200946,Midwest,Summit Carriers,10/27/2025,29-Oct-2025,29-Oct-2025,Delivered,,Y,412
+100947,200947,Mid-Atlantic,Summit Carriers,12/06/2025,2025-12-10,12/09/2025,  Delivered  ,,Y,521
+100948,200948,Mountain,coastal express,2025-12-14,18-Dec-2025,2025-12-18,Delivered,,Y,222
+100949,200949,Mountain,Northline Logistics,2025-11-20,2025-11-23,23-Nov-2025,Delivered,,Y,398
+100950,200950,WEST,  Apex Freight  ,18-Oct-2025,20-Oct-2025,2025-10-20,Delivered,,Y,491
+100951,200951,Mid-Atlantic,Summit Carriers,2025-11-27,01-Dec-2025,11/30/2025,Delivered,,Y,406
+100952,200952,Northeast,Northline Logistics,11/26/2025,11/29/2025,11/30/2025,Delivered - Late,,Y,528
+100953,200953,Southeast,Coastal Express,10/30/2025,11/01/2025,,Failed - Carrier Delay,CARRIER_DELAY,,383
+100954,200954,Northeast,Northline Logistics,12-Nov-2025,11/15/2025,11/14/2025,Delivered,,Y,156
+100955,200955,West,Apex Freight,11/08/2025,11/11/2025,2025-11-10,Delivered,,Y,608
+100956,200956,Northeast,Summit Carriers,2025-12-23,28-Dec-2025,27-Dec-2025,Delivered,,Y,229
+100957,200957,Mountain,Northline Logistics,06-Dec-2025,12/11/2025,12/10/2025,Delivered,,Y,102
+100958,200958,Mid-Atlantic,Northline Logistics,2025-11-24,28-Nov-2025,,Failed - Customer Unavailable,CUST_UNAVAIL,,475
+100959,200959,Northeast,Coastal Express,10/18/2025,2025-10-23,2025-10-23,Delivered,,Y,378
+100960,200960,Mid-Atlantic,  Northline Logistics  ,2025-11-23,11/27/2025,26-Nov-2025,Delivered,,Y,38
+100961,200961,Northeast,Northline Logistics,2025-10-20,2025-10-23,10/22/2025,Delivered,,Y,224
+100962,200962,Pacific Northwest,apex freight,08-Dec-2025,12-Dec-2025,2025-12-11,Delivered,,Y,326
+100963,200963,Southeast,Northline Logistics,2025-10-14,19-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,515
+100964,200964,Northeast,Northline Logistics,26-Oct-2025,28-Oct-2025,28-Oct-2025,Delivered,,Y,551
+100965,200965,SOUTHEAST,Summit Carriers,08-Oct-2025,10/11/2025,2025-10-10,Delivered,,Y,128
+100966,200966,Midwest,Summit Carriers,12/01/2025,03-Dec-2025,03-Dec-2025,Delivered,,Y,225
+100967,200967,West,SUMMIT CARRIERS,2025-12-25,2025-12-29,2025-12-28,delivered,,Y,529
+100968,200968,Mountain,Coastal Express,2025-10-26,28-Oct-2025,10/27/2025,Delivered,,Y,267
+100969,200969,Mid-Atlantic,Summit Carriers,28-Nov-2025,02-Dec-2025,12/01/2025,Delivered,,Y,482
+100970,200970,MID-ATLANTIC,Coastal Express,20-Nov-2025,11/25/2025,24-Nov-2025,Delivered,,Y,457
+100971,200971,Mountain,Summit Carriers,24-Dec-2025,27-Dec-2025,27-Dec-2025,Delivered,,Y,176
+100972,200972,West,Coastal Express,2025-12-25,2025-12-27,27-Dec-2025,Delivered,,Y,436
+100973,200973,Southeast,Coastal Express,10/10/2025,2025-10-12,11-Oct-2025,Delivered,,Y,273
+100974,200974,Southwest,Apex Freight,11/29/2025,12/01/2025,,  Failed - Carrier Delay  ,CARRIER_DELAY,,487
+100975,200975,Pacific Northwest,Coastal Express,11/21/2025,11/24/2025,25-Nov-2025,Delivered - Late,,Y,154
+100976,200976,Mid-Atlantic,Summit Carriers,12/02/2025,2025-12-06,,Failed - Carrier Delay,CARRIER_DELAY,,576
+100977,200977,Southwest,Summit Carriers,10/18/2025,22-Oct-2025,22-Oct-2025,Delivered,,Y,117
+100978,200978,Midwest,Coastal Express,10/16/2025,2025-10-21,10/21/2025,Delivered,,Y,172
+100979,200979,Mountain,Coastal Express,2025-10-23,10/26/2025,26-Oct-2025,Delivered,,Y,63
+100980,200980,Southeast,  Summit Carriers  ,28-Dec-2025,12/31/2025,12/31/2025,Delivered,,Y,221
+100981,200981,Southwest,Coastal Express,10/31/2025,2025-11-03,,Failed - Wrong Address,ADDR_ERR,,446
+100982,200982,Northeast,Apex Freight,13-Nov-2025,11/16/2025,16-Nov-2025,Delivered,,Y,186
+100983,200983,Midwest,Apex Freight,11/23/2025,2025-11-28,,Failed - Customer Unavailable,CUST_UNAVAIL,,349
+100984,200984,Mid-Atlantic,Northline Logistics,12/19/2025,2025-12-22,12/21/2025,Delivered,,Y,233
+100985,200985,Southeast,Coastal Express,11-Nov-2025,2025-11-14,,Failed - Wrong Address,ADDR_ERR,,338
+100986,200986,Northeast,Summit Carriers,2025-10-28,01-Nov-2025,31-Oct-2025,Delivered,,Y,392
+100987,200987,  Northeast  ,apex freight,2025-10-28,01-Nov-2025,01-Nov-2025,DELIVERED,,Y,597
+100988,200988,Midwest,coastal express,13-Oct-2025,18-Oct-2025,2025-10-17,Delivered,,Y,151
+100989,200989,Mid-Atlantic,Northline Logistics,21-Dec-2025,2025-12-24,12/24/2025,Delivered,,Y,614
+100990,200990,Mountain,Summit Carriers,12/05/2025,12/08/2025,12/08/2025,DELIVERED,,Y,142
+100991,200991,West,Northline Logistics,2025-11-24,2025-11-27,30-Nov-2025,Delivered - Late,,Y,221
+100992,200992,Midwest,Summit Carriers,2025-10-27,10/29/2025,28-Oct-2025,Delivered,,Y,351
+100993,200993,midwest,Coastal Express,2025-11-10,12-Nov-2025,11/11/2025,Delivered,,Y,249
+100994,200994,Mid-Atlantic,Coastal Express,2025-11-01,2025-11-04,2025-11-04,Delivered,,Y,242
+100995,200995,Pacific Northwest,  Coastal Express  ,2025-10-24,2025-10-28,27-Oct-2025,Delivered,,Y,212
+100996,200996,Northeast,Northline Logistics,10/27/2025,30-Oct-2025,,Failed - Carrier Delay,CARRIER_DELAY,,577
+100997,200997,Southwest,Northline Logistics,2025-12-04,2025-12-06,2025-12-06,Delivered,,Y,265
+100998,200998,Pacific Northwest,Northline Logistics,12/17/2025,2025-12-20,20-Dec-2025,Delivered,,Y,507
+100999,200999,Southeast,Coastal Express,20-Nov-2025,2025-11-24,,Failed - Customer Unavailable,CUST_UNAVAIL,,466
+100521,200521,Northeast,Coastal Express,11/01/2025,04-Nov-2025,,failed - wrong address,ADDR_ERR,,365
+100737,200737,mountain,Northline Logistics,19-Dec-2025,12/22/2025,12/22/2025,Delivered,,Y,172
+100740,200740,West,  Apex Freight  ,04-Oct-2025,10/08/2025,2025-10-07,delivered,,Y,174
+100660,200660,Northeast,Coastal Express,12/10/2025,2025-12-12,,Failed - Wrong Address,ADDR_ERR,,588
+100411,200411,Midwest,Coastal Express,10/13/2025,10/17/2025,,Failed - Carrier Delay,CARRIER_DELAY,,279
+100678,200678,Mountain,Coastal Express,2025-10-19,10/24/2025,28-Oct-2025,Delivered - Late,,Y,338
+100626,200626,Southeast,Coastal Express,11/30/2025,12/03/2025,,Failed - Carrier Delay,CARRIER_DELAY,,296
+100513,200513,West,Apex Freight,2025-10-23,10/27/2025,26-Oct-2025,Delivered,,Y,537
+100859,200859,Mountain,Coastal Express,27-Nov-2025,2025-12-01,,Failed - Wrong Address,ADDR_ERR,,309
+100136,200136,Southeast,Summit Carriers,10/13/2025,16-Oct-2025,10/15/2025,Delivered,,Y,435
+100811,200811,Southeast,Summit Carriers,30-Nov-2025,04-Dec-2025,12/03/2025,Delivered,,Y,117
+100076,200076,Mountain,Coastal Express,2025-11-24,29-Nov-2025,11/28/2025,Delivered,,Y,251
+100636,200636,Southeast,Northline Logistics,11/05/2025,2025-11-07,11/07/2025,Delivered,,Y,413
+100973,200973,Southeast,Coastal Express,2025-10-10,2025-10-12,10/11/2025,Delivered,,Y,273
+100938,200938,southwest,Summit Carriers,24-Oct-2025,10/26/2025,26-Oct-2025,Delivered,,Y,160
+100899,200899,Midwest,Coastal Express,10/19/2025,22-Oct-2025,10/21/2025,Delivered,,Y,188
+100280,200280,Southwest,  Northline Logistics  ,27-Dec-2025,2025-12-31,,Failed - Carrier Delay,CARRIER_DELAY,,290
+100883,200883,Pacific Northwest,Apex Freight,12-Oct-2025,10/14/2025,14-Oct-2025,Delivered,,Y,393
+100761,200761,Southeast,Northline Logistics,03-Oct-2025,07-Oct-2025,10/07/2025,Delivered,,Y,550
+100319,200319,Mountain,summit carriers,01-Oct-2025,2025-10-05,10/05/2025,Delivered,,Y,324
